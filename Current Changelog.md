@@ -1,22 +1,9 @@
-# 📑 Changelog xx/xx/xxxx - xx/xx/xxxx
+# 📑 Changelog 06/12/2026 - 06/xx/2026
 
-## 🟢 Status `Released`
+## 🟢 Status `Unreleased`
 
 ## 💬 Patch Notes
-
-________
-
-## 🔫 New Items
-
-### Item Name
-- Details
-
-________
-
-## 🗺️ Map Changes
-
-### Area Name
-- Details
+Thanks for giving the game a try this weekend and helping us have a great early access launch! Having you all test showed us where some of the creaky floorboards are, and we're trying to get those patched up as quickly as we can.
 
 ________
 
@@ -30,14 +17,19 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` Made it more obvious where the menu button is in the class selection UI
+
+### ❗ `Change` Added a "Spawn" button in to the class selection UI for desktop players
+
+### ❗ `Change` Made it more obvious where the configure button is when selecting weapons
+
+### ❗ `Change` Kote kick now requires server majority to pass the vote
+
+### ❗ `Change` Explosions on aircraft scorestreaks should deal more consistent damage now
 
 ________
 
 ## 🐛 Bugfixes
-- Bug that was fixed
-
-________
-
-## 🗒️ Additional Notes
-- Additional details
+- Fixed a bug that allowed infected players to choose their loadout.
+- Fixed a bug that allowed zombies to persist their scorestreaks from their previous life.
+- Fixed a bug that was causing bullet invalidations on your player.
