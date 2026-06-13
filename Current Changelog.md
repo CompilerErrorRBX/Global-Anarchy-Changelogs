@@ -9,7 +9,7 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` FEATURE
+### ✅ `Feature` Added Spectating
 
 ### 🔼 `Improvement` Improvement
 
@@ -33,3 +33,4 @@ ________
 - Fixed a bug that allowed infected players to choose their loadout.
 - Fixed a bug that allowed zombies to persist their scorestreaks from their previous life.
 - Fixed a bug that was causing bullet invalidations on your player.
+- Fixed a bug that preventing you from changing your loadout mid game.
