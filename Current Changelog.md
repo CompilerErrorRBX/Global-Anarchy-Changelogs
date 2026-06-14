@@ -23,7 +23,7 @@ ________
 
 ### ❗ `Change` Made it more obvious where the configure button is when selecting weapons
 
-### ❗ `Change` Kote kick now requires server majority to pass the vote
+### ❗ `Change` Vote kick now requires server majority to pass the vote
 
 ### ❗ `Change` Explosions on aircraft scorestreaks should deal more consistent damage now
 
