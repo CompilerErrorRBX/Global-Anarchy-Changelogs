@@ -1,17 +1,15 @@
-# 📑 Changelog 06/12/2026 - 06/xx/2026
+# 📑 Changelog 06/12/2026 - 06/15/2026
 
 ## 🟢 Status `Unreleased`
 
 ## 💬 Patch Notes
-Thanks for giving the game a try this weekend and helping us have a great early access launch! Having you all test showed us where some of the creaky floorboards are, and we're trying to get those patched up as quickly as we can.
+Thanks for giving the game a try this weekend and helping us have a great early access launch! Having you all test showed us where some of the creaky floorboards are, and we're trying to get those patched up as quickly as we can. Some of these updates you may have already seen, as the game was updated throughout the weekend.
 
 ________
 
-## 📢 Features and Improvements
+## 📢 Features
 
 ### ✅ `Feature` Added Spectating
-
-### 🔼 `Improvement` Improvement
 
 ________
 
