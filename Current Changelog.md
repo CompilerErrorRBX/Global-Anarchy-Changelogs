@@ -10,6 +10,7 @@ ________
 ## 📢 Features
 
 ### ✅ `Feature` Added Spectating
+> Added spectate button to main deploy screen. You can cycle through all players and switch between first and third person.
 
 ________
 
