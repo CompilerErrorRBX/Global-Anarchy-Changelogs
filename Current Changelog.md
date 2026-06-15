@@ -27,6 +27,8 @@ ________
 
 ### ❗ `Change` Explosions on aircraft scorestreaks should deal more consistent damage now
 
+### ❗ `Change` Removed Tertiary slot (Slot 3). It was unused.
+
 ________
 
 ## 🐛 Bugfixes
@@ -34,3 +36,5 @@ ________
 - Fixed a bug that allowed zombies to persist their scorestreaks from their previous life.
 - Fixed a bug that was causing bullet invalidations on your player.
 - Fixed a bug that preventing you from changing your loadout mid game.
+- Fixed a bug that caused the minimap to unrender players
+- Fixed a bug that caused the minimap to "unlink" red map blips.
