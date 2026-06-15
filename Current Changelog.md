@@ -27,7 +27,9 @@ ________
 
 ### ❗ `Change` Explosions on aircraft scorestreaks should deal more consistent damage now
 
-### ❗ `Change` Removed Tertiary slot (Slot 3). It was unused.
+### ❗ `Change` Removed Tertiary slot (Slot 3). It was unused
+
+### ❗ `Change` You can no longer vault while ADSing or facing backwards
 
 ________
 
@@ -39,3 +41,4 @@ ________
 - Fixed a bug that caused the minimap to unrender players
 - Fixed a bug that caused the minimap to "unlink" red map blips.
 - Fixed a bug that caused the vote UI to always be visible on mobile devices.
+- Fixed a bug allowing you to vault over players.
