@@ -38,3 +38,4 @@ ________
 - Fixed a bug that preventing you from changing your loadout mid game.
 - Fixed a bug that caused the minimap to unrender players
 - Fixed a bug that caused the minimap to "unlink" red map blips.
+- Fixed a bug that caused the vote UI to always be visible on mobile devices.
