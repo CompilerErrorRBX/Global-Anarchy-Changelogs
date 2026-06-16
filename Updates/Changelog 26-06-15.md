@@ -7,11 +7,12 @@ Thanks for giving the game a try this weekend and helping us have a great early 
 
 ________
 
-## 📢 Features
+## 📢 Features And Improvements
 
 ### ✅ `Feature` Added Spectating
 > Added spectate button to main deploy screen. You can cycle through all players and switch between first and third person.
 
+### 🔼 `Improvement` Added predator missile boost keybind to controllers. R2
 ________
 
 ## ⚖️ Changes
