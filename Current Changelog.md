@@ -22,11 +22,17 @@ ________
 > - Contains premium Anarchist operator skin.
 > - Contains M4A1 weapon skin and player card.
 
-### 🔼 `Improvement` Improvement
+### 🔼 `Improvement` Prestiging no longer clears progress on weapons
+> - Items must still be re-obtained through level requirements or gold purchases.
 
 ________
 
 ## ⚖️ Changes
+
+### ❗ `Change` Brand new players are automatically placed in a private server against bots.
+> - Once you reach level 3 you are placed back in casual servers.
+> - Players who are already past level 3 are not affected.
+> - This is done to give brand new players a chance to learn the game.
 
 ### ❗ `Change` MOAB now destroys all active scorestreaks in the map
 
