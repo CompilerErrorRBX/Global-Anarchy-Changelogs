@@ -39,9 +39,5 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Bug that was fixed
-
-________
-
-## 🗒️ Additional Notes
-- Additional details
+- Fixed a bug that caused you to be able to spectate players in the spawn box during HQ matches.
+- Fixed a bug that caused the armory selection menu to incorrectly display weapons after purchasing.
