@@ -14,6 +14,14 @@ ________
 > +5 All Booster Types
 > +10,000 Coins
 
+### ✅ `Feature` Added shop bundle: Skull Crusher
+> Contains premium Globalist operator skin.
+> Contains ACR weapon skin and player card.
+
+### ✅ `Feature` Added shop bundle: Rupture
+> Contains premium Anarchist operator skin.
+> Contains M4A1 weapon skin and player card.
+
 ### 🔼 `Improvement` Improvement
 
 ________
