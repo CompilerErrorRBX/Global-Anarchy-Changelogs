@@ -36,6 +36,8 @@ ________
 > - Anarchists can be factions such as Spetsnaz or KSSO Command.
 > - More factions will come!
 
+### ❗ `Change` Renamed ACR to SCR
+
 ________
 
 ## 🐛 Bugfixes
