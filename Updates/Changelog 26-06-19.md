@@ -22,6 +22,8 @@ ________
 > - Contains premium Anarchist operator skin.
 > - Contains M4A1 weapon skin and player card.
 
+### ✅ `Feature` Added quick prone keybind: Z
+
 ### 🔼 `Improvement` Prestiging no longer clears progress on weapons
 > - Items must still be re-obtained through level requirements or gold purchases.
 
@@ -50,3 +52,4 @@ ________
 - Fixed a bug that caused you to be able to spectate players in the spawn box during HQ matches.
 - Fixed a bug that caused the armory selection menu to incorrectly display weapons after purchasing.
 - Fixed a bug that caused cached player models to incorrectly draw at 0,0,0.
+- Fixed a bug that caused you to stand up when pressing crouch while proning.
