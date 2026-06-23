@@ -25,4 +25,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug that caused bugs
+- Fixed a bug that caused throwing knives to feel inconsistent when travelling long distances
