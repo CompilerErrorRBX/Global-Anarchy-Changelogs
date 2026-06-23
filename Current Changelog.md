@@ -13,6 +13,9 @@ ________
 >- If you get a kill, you get a bullet back.
 >- First to 15 kills wins!
 
+### ✅ `Feature` Added skin progression to UMP45
+>- Also now has the correct gun icon
+
 ### 🔼 `Improvement` Intermission screen will now always pick 2 core gamemodes and 1 party gamemode.
 >- Random selection is 50/50 core or party.
 
