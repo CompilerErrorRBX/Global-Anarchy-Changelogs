@@ -10,7 +10,7 @@ ________
 ### ✅ `Feature` Added Gamemode: Domination
 >- Three static points exist on the map: A, B, and C.
 >- While a point is captured your teams score increases.
->- First team to 300 score wins.
+>- First team to 100 score wins.
 
 ### ✅ `Feature` Added Gamemode: One In The Chamber
 >- Everyone starts with a pistol with 1 bullet, and a throwing knife.
