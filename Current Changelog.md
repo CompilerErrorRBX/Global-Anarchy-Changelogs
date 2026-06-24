@@ -34,3 +34,4 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug that caused throwing knives to feel inconsistent when travelling long distances
+- Fixed a bug that caused you to get stuck in prone when you respawned
