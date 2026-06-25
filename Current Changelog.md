@@ -12,6 +12,11 @@ ________
 >- While a point is captured your teams score increases.
 >- First team to 100 score wins.
 
+### ✅ `Feature` Added Gamemode: Kill Confirmed
+>- Similar to TDM.
+>- Pick up enemy dog tags to get score.
+>- First to 75 wins.
+
 ### ✅ `Feature` Added Gamemode: One In The Chamber
 >- Everyone starts with a pistol with 1 bullet, and a throwing knife.
 >- Every bullet is a one-shot-kill.
