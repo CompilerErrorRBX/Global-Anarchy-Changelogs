@@ -35,6 +35,14 @@ ________
 
 ### ❗ `Change` Replaced the menu music
 
+### ❗ `Change` Your scorestreak chain now only resets once your last scorestreak is finished being used
+
+### ❗ `Change` Using scorestreaks now only grants 25 xp instead of 50 xp
+
+### ❗ `Change` Killfeed and Minimap are now visible while scoped in
+
+### ❗ `Change` You can no longer prone while in the air
+
 ________
 
 ## 🐛 Bugfixes
