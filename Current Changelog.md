@@ -25,3 +25,4 @@ ________
 - Fixed a bug causing you to be able to 1-shot anyone outside of the OITC gamemode
 - Fixed a bug causing your camera to not properly return to the titlescreen when exiting spectate mode
 - Fixed a bug which caused NPCs to move from the spawn position at the start of a game
+- Fixed a bug which would caused imbalanced teams.
