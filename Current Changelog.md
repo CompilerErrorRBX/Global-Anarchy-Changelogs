@@ -1,4 +1,4 @@
-# 📑 Changelog 06/20/2026 - 06/xx/2026
+# 📑 Changelog 06/27/2026 - 06/xx/2026
 
 ## 🟢 Status `Unreleased`
 
@@ -7,46 +7,21 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Added Gamemode: Domination
->- Three static points exist on the map: A, B, and C.
->- While a point is captured your teams score increases.
->- First team to 100 score wins.
+### ✅ `Feature` Added rotating shop
+- Shop rotates through featured items every 24 hours
+- Includes new cosmetics like operator bundles and weapon skins
 
-### ✅ `Feature` Added Gamemode: Kill Confirmed
->- Similar to TDM.
->- Pick up enemy dog tags to get score.
->- First to 75 wins.
-
-### ✅ `Feature` Added Gamemode: One In The Chamber
->- Everyone starts with a pistol with 1 bullet, and a throwing knife.
->- Every bullet is a one-shot-kill.
->- If you get a kill, you get a bullet back.
->- First to 15 kills wins!
-
-### ✅ `Feature` Added skin progression to UMP45
->- Also now has the correct gun icon
-
-### 🔼 `Improvement` Intermission screen will now always pick 2 core gamemodes and 1 party gamemode.
->- Random selection is 50/50 core or party.
-
+### 🔼 `Improvement` Improvement
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Replaced the menu music
-
-### ❗ `Change` Your scorestreak chain now only resets once your last scorestreak is finished being used
-
-### ❗ `Change` Using scorestreaks now only grants 25 xp instead of 50 xp
-
-### ❗ `Change` Killfeed and Minimap are now visible while scoped in
-
-### ❗ `Change` You can no longer prone while in the air
+### ❗ `Change` Reduced price of single purchase weapon skins
 
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug that caused throwing knives to feel inconsistent when travelling long distances
-- Fixed a bug that caused you to get stuck in prone when you respawned
-- Fixed a bug which caused friendly players to be mistakenly displayed as enemies
-- Fixed a bug which caused fps to affect turn speed on controllers
+- Fixed a bug causing some bullet invalidations
+- Fixed a bug causing you to be able to 1-shot anyone outside of the OITC gamemode
+- Fixed a bug causing your camera to not properly return to the titlescreen when exiting spectate mode
+- Fixed a bug which caused NPCs to move from the spawn position at the start of a game
