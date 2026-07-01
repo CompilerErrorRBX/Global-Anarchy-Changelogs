@@ -11,7 +11,16 @@ ________
 - Shop rotates through featured items every 24 hours
 - Includes new cosmetics like operator bundles and weapon skins
 
-### 🔼 `Improvement` Improvement
+### 💄 `Cosmetic` New Bundle: Independence Day
+- See in game for more details
+
+### 💄 `Cosmetic` New Bundle: MOPP
+- MOPP operator (Globalist)
+
+### 💄 `Cosmetic` New Bundle: Hazmat
+- Hazmat operator (Anarchist)
+
+### 🔼 `Improvement` Menu music now fades when in the Armory
 ________
 
 ## ⚖️ Changes
