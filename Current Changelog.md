@@ -1,4 +1,4 @@
-# 📑 Changelog 06/27/2026 - 06/xx/2026
+# 📑 Changelog 07/01/2026 - 07/xx/2026
 
 ## 🟢 Status `Unreleased`
 
@@ -7,31 +7,17 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Added rotating shop
-- Shop rotates through featured items every 24 hours
-- Includes new cosmetics like operator bundles and weapon skins
+### ✅ `Feature` Added settings UI
+- No keybinds yet, just normal game configuration support
 
-### 💄 `Cosmetic` New Bundle: Independence Day
-- See in game for more details
-
-### 💄 `Cosmetic` New Bundle: MOPP
-- MOPP operator (Globalist)
-
-### 💄 `Cosmetic` New Bundle: Hazmat
-- Hazmat operator (Anarchist)
-
-### 🔼 `Improvement` Menu music now fades when in the Armory
+### 🔼 `Improvement` 
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Reduced price of single purchase weapon skins
+### ❗ `Change` Updated 9th and 10th prestige icons
 
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug causing some bullet invalidations
-- Fixed a bug causing you to be able to 1-shot anyone outside of the OITC gamemode
-- Fixed a bug causing your camera to not properly return to the titlescreen when exiting spectate mode
-- Fixed a bug which caused NPCs to move from the spawn position at the start of a game
-- Fixed a bug which would caused imbalanced teams.
+- Fixed a bug causing you to spawn outside of the map in Reactor
