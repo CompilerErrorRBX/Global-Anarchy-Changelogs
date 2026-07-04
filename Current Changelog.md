@@ -19,6 +19,8 @@ ________
 
 ### ❗ `Change` Updated 9th and 10th prestige icons
 
+### ❗ `Change` Viewport models in Armory can now be spun around
+
 ________
 
 ## 🐛 Bugfixes
