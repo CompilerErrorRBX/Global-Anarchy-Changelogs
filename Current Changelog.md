@@ -15,6 +15,8 @@ ________
 
 ## ⚖️ Changes
 
+### ❗ `Change` Reduced price of challenge reroll button
+
 ### ❗ `Change` Updated 9th and 10th prestige icons
 
 ________
