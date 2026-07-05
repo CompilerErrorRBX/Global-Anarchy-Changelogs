@@ -15,6 +15,8 @@ ________
 ### 🔼 `Improvement` Profile UI now shows item unlock progression track
 
 ### 🔼 `Improvement` Changing teams no longer spams your chat window
+
+### 🔼 `Improvement` Added some UI hover effects on buttons where it was previously missing
 ________
 
 ## ⚖️ Changes
