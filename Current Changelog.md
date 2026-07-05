@@ -13,6 +13,8 @@ ________
 ### 💄 `Cosmetic` Added calling cards for each prestige level
 
 ### 🔼 `Improvement` Profile UI now shows item unlock progression track
+
+### 🔼 `Improvement` Changing teams no longer spams your chat window
 ________
 
 ## ⚖️ Changes
