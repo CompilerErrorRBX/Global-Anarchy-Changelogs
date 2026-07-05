@@ -10,6 +10,8 @@ ________
 ### ✅ `Feature` Added settings UI
 - No keybinds yet, just normal game configuration support
 
+### 🔼 `Improvement` Add calling cards for each prestige
+
 ### 🔼 `Improvement` Profile UI now shows item unlock progression track
 ________
 
