@@ -28,3 +28,4 @@ ________
 ## 🐛 Bugfixes
 - Fixed a bug causing you to spawn outside of the map in Reactor
 - Fixed a bug that prevents mobile players from sprinting
+- Fixed a bug that caused the Independence Day operator skins to become partially invisible
