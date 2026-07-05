@@ -10,7 +10,7 @@ ________
 ### ✅ `Feature` Added settings UI
 - No keybinds yet, just normal game configuration support
 
-### 🔼 `Improvement` 
+### 🔼 `Improvement` Profile UI now shows item unlock progression track
 ________
 
 ## ⚖️ Changes
