@@ -3,14 +3,6 @@
 ## 🟢 Status `Released`
 
 ## 💬 Patch Notes
-
-________
-
-## 🔫 New Items
-
-### Item Name
-- Details
-
 ________
 
 ## 🗺️ Map Changes
@@ -24,20 +16,17 @@ ________
 
 ### ✅ `Feature` FEATURE
 
+### 💄 `Cosmetic` Cosmetic
+
 ### 🔼 `Improvement` Improvement
 
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` Changed everything
 
 ________
 
 ## 🐛 Bugfixes
-- Bug that was fixed
-
-________
-
-## 🗒️ Additional Notes
-- Additional details
+- Fixed every bug
