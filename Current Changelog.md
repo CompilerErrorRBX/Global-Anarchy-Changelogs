@@ -7,32 +7,19 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Added settings UI
-- No keybinds yet, just normal game configuration support
+### ✅ `Feature` Feature
 
-### 💄 `Cosmetic` Added calling cards for each prestige level
+### 💄 `Cosmetic` Cosmetic
 
-### 💄 `Cosmetic` Added calling cards to level progression
+### 🔼 `Improvement` Improvement
 
-### 🔼 `Improvement` Profile UI now shows item unlock progression track
-
-### 🔼 `Improvement` Changing teams no longer spams your chat window
-
-### 🔼 `Improvement` Added some UI hover effects on buttons where it was previously missing
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Reduced price of challenge reroll button
-
-### ❗ `Change` Updated 9th and 10th prestige icons
-
-### ❗ `Change` Viewport models in Armory can now be spun around
+### ❗ `Change` Changed everything
 
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug causing you to spawn outside of the map in Reactor
-- Fixed a bug that prevents mobile players from sprinting
-- Fixed a bug that caused the Independence Day operator skins to become partially invisible
-- Fixed a bug where players were not getting their Independence Day MKX skin
+- Fixed every bug
