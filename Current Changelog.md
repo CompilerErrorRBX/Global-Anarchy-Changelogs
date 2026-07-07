@@ -17,7 +17,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Changed everything
+### ❗ `Change` Buffed Famas burst timeout. Reduced from 0.3s to 0.2s.
 
 ________
 
