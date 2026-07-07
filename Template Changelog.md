@@ -16,9 +16,9 @@ ________
 
 ### ✅ `Feature` FEATURE
 
-### 💄 `Cosmetic` Cosmetic
-
 ### 🔼 `Improvement` Improvement
+
+### 💄 `Cosmetic` Cosmetic
 
 ________
 
