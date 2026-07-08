@@ -22,4 +22,5 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed every bug
+- Fixed a bug preventing you from disabling Aim Assist on consoles.
+- Fixed a bug preventing shop bundles from rotating every 24 hours.
