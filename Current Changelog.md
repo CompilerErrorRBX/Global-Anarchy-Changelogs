@@ -7,11 +7,27 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Feature
+### ✅ `Feature` Squads
+- You can now create groups with your friends.
+- This does not affect what team you are on. This may change in the future.
+
+### ✅ `Feature` Private Servers
+- The "Play" button can now be configured to join in to a private server.
+- This will pull your whole squad with you.
+
+### ✅ `Feature` UZI
+- New SMG
 
 ### 💄 `Cosmetic` Cosmetic
 
-### 🔼 `Improvement` Improvement
+### 🔼 `Improvement` Improved environment impact sound effects
+
+### 🔼 `Improvement` Improved player impact sound effects
+
+### 🔼 `Improvement` Added new explosion sound effects
+
+### 🔼 `Improvement` Added new bullet casing sound effects
+
 
 ________
 
