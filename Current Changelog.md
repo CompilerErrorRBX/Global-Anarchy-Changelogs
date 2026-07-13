@@ -13,6 +13,7 @@ ________
 
 ### ✅ `Feature` Private Servers
 - The "Play" button can now be configured to join in to a private server.
+- You can configure certain things about the match such as the map, gamemode, or whether or not bots are enabled.
 - This will pull your whole squad with you.
 
 ### ✅ `Feature` UZI
@@ -32,6 +33,8 @@ ________
 ________
 
 ## ⚖️ Changes
+
+### ❗ `Change` New player tutorial is no longer automatic. Players can opt out of it.
 
 ### ❗ `Change` Buffed Famas burst timeout. Reduced from 0.3s to 0.2s.
 
