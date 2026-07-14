@@ -16,6 +16,9 @@ ________
 - You can configure certain things about the match such as the map, gamemode, or whether or not bots are enabled.
 - This will pull your whole squad with you.
 
+### ✅ `Feature` Team selection
+- Added the ability to select your own team. This is disabled in Casual mode.
+
 ### ✅ `Feature` UZI
 - New SMG
 
@@ -23,6 +26,8 @@ ________
 
 ### 🔼 `Improvement` Playing with friends now awards you a Friend Bonus
 - This gives you additional 50% Gold and XP (Additive)
+
+### 🔼 `Improvement` overhauled parts of the in-game hud
 
 ### 🔼 `Improvement` Improved environment impact sound effects
 
