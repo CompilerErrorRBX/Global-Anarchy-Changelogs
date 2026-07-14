@@ -22,7 +22,15 @@ ________
 ### ✅ `Feature` UZI
 - New SMG
 
-### 💄 `Cosmetic` Cosmetic
+### 💄 `Cosmetic` New Bundle: Blackbeard
+- Globalists Operator
+- Leopard Print M82 skin
+- Calling card
+
+### 💄 `Cosmetic` New Bundle: Ice Breaker
+- Anarchists Operator
+- Leopard Print Intervention skin
+- Calling card
 
 ### 🔼 `Improvement` Playing with friends now awards you a Friend Bonus
 - This gives you additional 50% Gold and XP (Additive)
