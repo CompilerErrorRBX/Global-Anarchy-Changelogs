@@ -25,12 +25,12 @@ ________
 ### 💄 `Cosmetic` New Bundle: Blackbeard
 - Globalists Operator
 - "Leopard Print" M82 skin
-- Calling card
+- Player card
 
 ### 💄 `Cosmetic` New Bundle: Ice Breaker
 - Anarchists Operator
 - "Nightmare" Intervention skin
-- Calling card
+- Player card
 
 ### 🔼 `Improvement` Playing with friends now awards you a Friend Bonus
 - This gives you additional 50% Gold and XP (Additive)
