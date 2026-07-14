@@ -24,12 +24,12 @@ ________
 
 ### 💄 `Cosmetic` New Bundle: Blackbeard
 - Globalists Operator
-- Leopard Print M82 skin
+- "Leopard Print" M82 skin
 - Calling card
 
 ### 💄 `Cosmetic` New Bundle: Ice Breaker
 - Anarchists Operator
-- Leopard Print Intervention skin
+- "Nightmare" Intervention skin
 - Calling card
 
 ### 🔼 `Improvement` Playing with friends now awards you a Friend Bonus
