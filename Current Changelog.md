@@ -21,6 +21,9 @@ ________
 
 ### 💄 `Cosmetic` Cosmetic
 
+### 🔼 `Improvement` Playing with friends now awards you a Friend Bonus
+- This gives you additional 50% Gold and XP (Additive)
+
 ### 🔼 `Improvement` Improved environment impact sound effects
 
 ### 🔼 `Improvement` Improved player impact sound effects
