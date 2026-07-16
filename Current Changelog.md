@@ -56,7 +56,7 @@ ________
 
 ### ❗ `Change` New player tutorial is no longer automatic. Players can opt out of it.
 
-### ❗ `Change` Buffed Famas burst timeout. Reduced from 0.3s to 0.2s.
+### ❗ `Change` Buffed Famas burst timeout. Reduced from 0.3s to 0.25s.
 
 ### ❗ `Change` Buffed B93r burst timeout. Reduced from 0.4s to 0.3s.
 
