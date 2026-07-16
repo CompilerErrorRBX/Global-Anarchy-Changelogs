@@ -22,6 +22,9 @@ ________
 ### ✅ `Feature` UZI
 - New SMG
 
+### ✅ `Feature` Outbreak Calling Card
+- Careful not to start an outbreak! (secret unlock condition)
+
 ### 💄 `Cosmetic` New Bundle: Blackbeard
 - Globalists Operator
 - "Leopard Print" M82 skin
