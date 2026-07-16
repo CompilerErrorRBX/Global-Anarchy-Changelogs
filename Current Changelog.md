@@ -63,3 +63,4 @@ ________
 - Fixed a bug preventing shop bundles from rotating every 24 hours.
 - Fixed a bug preventing controller players from acessing the Emblems section of the Player Card editor.
 - Fixed a bug causing your screen to tint red when joining the game.
+- Fixed a bug where attack helicopters would attack the wrong team if you swap teams.
