@@ -48,6 +48,7 @@ ________
 
 ### 🔼 `Improvement` Added new bullet casing sound effects
 
+### 🔼 `Improvement` Throwing grenades no longer cancels your run state
 
 ________
 
