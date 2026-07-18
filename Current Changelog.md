@@ -24,6 +24,8 @@ ________
 
 ### ❗ `Change` Changed Clear Notifications bind for Gamepad from X to R3
 
+### ❗ `Change` Nerfed firerate of MP7 from 928 to 900
+
 ________
 
 ## 🐛 Bugfixes
