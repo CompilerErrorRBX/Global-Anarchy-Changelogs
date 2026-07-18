@@ -27,4 +27,5 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- (Hopefully) fixed a bug where bots would just stop spawning in Casual mode in an old server.
+- (Hopefully) Fixed a bug where bots would just stop spawning in Casual mode in an old server.
+- Fixed a bug where pressing Backspace to open 
