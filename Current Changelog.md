@@ -26,6 +26,8 @@ ________
 
 ### ❗ `Change` Nerfed firerate of MP7 from 928 to 900
 
+### ❗ `Change` Nerfed UZI aim spread by 10%
+
 ________
 
 ## 🐛 Bugfixes
