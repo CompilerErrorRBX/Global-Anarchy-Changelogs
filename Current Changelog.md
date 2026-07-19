@@ -32,6 +32,8 @@ ________
 
 ### ❗ `Change` Nerfed UZI aim spread by 10%
 
+### ❗ `Change` By default private matches now have bots enabled
+
 ________
 
 ## 🐛 Bugfixes
