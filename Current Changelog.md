@@ -22,6 +22,8 @@ ________
 
 ## ⚖️ Changes
 
+### ❗ `Change` Replaced Globalists AI announcer voice with a Human voice.
+
 ### ❗ `Change` Changed PlayerCard bind for Gamepad from DPadUp to X
 
 ### ❗ `Change` Changed Clear Notifications bind for Gamepad from X to R3
