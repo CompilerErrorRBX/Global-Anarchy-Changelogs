@@ -7,7 +7,9 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` New Feature
+### ✅ `Feature` End Game Report UI
+- Shows at the start of Intermission.
+- Displays information about the last match you played.
 
 ### 💄 `Cosmetic` New Cosmetic
 
