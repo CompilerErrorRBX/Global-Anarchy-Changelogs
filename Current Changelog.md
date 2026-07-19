@@ -38,4 +38,4 @@ ________
 
 ## 🐛 Bugfixes
 - (Hopefully) Fixed a bug where bots would just stop spawning in Casual mode in an old server.
-- Fixed a bug where pressing Backspace to open 
+- Fixed a bug where pressing Backspace to open class selection UI wouldn't work.
