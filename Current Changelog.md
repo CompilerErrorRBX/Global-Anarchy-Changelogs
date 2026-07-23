@@ -39,6 +39,8 @@ ________
 
 ### ❗ `Change` By default private matches now have bots enabled
 
+### ❗ `Change` Boosted footstep volume by 20%
+
 ________
 
 ## 🐛 Bugfixes
