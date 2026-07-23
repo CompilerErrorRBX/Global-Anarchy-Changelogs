@@ -41,6 +41,8 @@ ________
 
 ### ❗ `Change` Boosted footstep volume by 20%
 
+### ❗ `Change` Reduced Kill Confirmed score limit from 75 to 50
+
 ________
 
 ## 🐛 Bugfixes
