@@ -30,6 +30,9 @@ ________
 
 ### ❗ `Change` Changed Clear Notifications bind for Gamepad from X to R3
 
+### ❗ `Change` Buffed Attack Helicopter
+- It targets players from farther away, and tries to lead shots a bit more.
+
 ### ❗ `Change` Nerfed firerate of MP7 from 928 to 900
 
 ### ❗ `Change` Nerfed UZI aim spread by 10%
