@@ -18,6 +18,8 @@ ________
 - If you join late, the game will try to keep you with your squad. This is not guaranteed though, as teams may not be balanced.
 - If you leave back to the menu another player can take your spot.
 
+### 🔼 `Improvement` When picking up a gun on Controller reloading is now prioritized
+
 ________
 
 ## ⚖️ Changes
