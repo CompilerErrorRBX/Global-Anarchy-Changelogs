@@ -43,6 +43,10 @@ ________
 
 ### ❗ `Change` Reduced Kill Confirmed score limit from 75 to 50
 
+### ❗ `Change` Nerfed Stopping Power from 30% to 20%
+
+### ❗ `Change` Nerfed Juggernaut from 30% to 20%
+
 ________
 
 ## 🐛 Bugfixes
