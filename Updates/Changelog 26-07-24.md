@@ -7,6 +7,9 @@ ________
 
 ## 📢 Features and Improvements
 
+### 🗺️ `Map` Suburbs
+- Set in central Florida, USA
+
 ### ✅ `Feature` End Game Report UI
 - Shows at the start of Intermission.
 - Displays information about the last match you played.
@@ -52,3 +55,5 @@ ________
 ## 🐛 Bugfixes
 - (Hopefully) Fixed a bug where bots would just stop spawning in Casual mode in an old server.
 - Fixed a bug where pressing Backspace to open class selection UI wouldn't work.
+- Fixed a bug where suppressor on UMP-45 was in the wrong spot.
+- Fixed a bug where HB could have a suppressor attached to it.
