@@ -7,7 +7,9 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` New Feature
+### ✅ `Feature` Claymore
+- New Tactical item
+- Plant these on the ground. When an enemy comes in to view it will blow up
 
 ### 💄 `Cosmetic` New Cosmetic
 
