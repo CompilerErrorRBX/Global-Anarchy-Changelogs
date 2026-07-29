@@ -23,3 +23,4 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug where queueing for Private Servers ot Tutorial would put you in a casual match.
+- Fixed a bug where guns would sometimes reload way too quickly.
