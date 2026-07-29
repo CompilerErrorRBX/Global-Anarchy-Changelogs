@@ -22,4 +22,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Bug Fixed
+- Fixed a bug where queueing for Private Servers ot Tutorial would put you in a casual match.
