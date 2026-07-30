@@ -18,6 +18,7 @@ ________
 ### 💄 `Cosmetic` Prestige 1 Skin
 - Globalists Operator Skin
 - Unlocked at prestige 1
+- More prestige skins coming soon!
 
 ### 🔼 `Improvement` New Audio bumper during match
 - They are now faction-specific!
