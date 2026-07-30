@@ -18,7 +18,7 @@ ________
 - Globalists Operator Skin
 - Unlocked at prestige 1
 
-### 🔼 `Improvement` New Audio bumper sfx during match
+### 🔼 `Improvement` New Audio bumper during match
 - They are now faction-specific!
 
 ### 🔼 `Improvement` Added sfx when using equipment
