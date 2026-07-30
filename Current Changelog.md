@@ -21,6 +21,8 @@ ________
 ### 🔼 `Improvement` New Audio bumper sfx during match
 - They are now faction-specific!
 
+### 🔼 `Improvement` Added sfx when using equipment
+
 ### 🔼 `Improvement` Sliding will no longer activate when running in to a wall
 
 ________
