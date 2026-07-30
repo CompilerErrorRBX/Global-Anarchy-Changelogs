@@ -18,7 +18,7 @@ ________
 - Globalists Operator Skin
 - Unlocked at prestige 1
 
-### 🔼 `Improvement` Improvement
+### 🔼 `Improvement` Sliding will no longer activate when running in to a wall
 
 ________
 
