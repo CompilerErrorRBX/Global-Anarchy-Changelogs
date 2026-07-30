@@ -29,7 +29,8 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` Added Outbreak Roblox Badge
+- Unlocked when you own the Outbreak Calling Card
 
 ________
 
