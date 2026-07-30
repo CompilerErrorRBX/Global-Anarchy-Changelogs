@@ -11,7 +11,12 @@ ________
 - New Tactical item
 - Plant these on the ground. When an enemy comes in to view it will blow up
 
-### 💄 `Cosmetic` New Cosmetic
+### 💄 `Cosmetic` SAS Bundle
+- Globalists Operator Skin
+
+### 💄 `Cosmetic` Prestige 1 Skin
+- Globalists Operator Skin
+- Unlocked at prestige 1
 
 ### 🔼 `Improvement` Improvement
 
