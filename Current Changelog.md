@@ -8,7 +8,7 @@ ________
 ## 📢 Features and Improvements
 
 ### ✅ `Feature` Claymore
-- New Tactical item
+- New Lethal item
 - Plant these on the ground. When an enemy comes in to view it will blow up
 
 ### 💄 `Cosmetic` SAS Bundle
