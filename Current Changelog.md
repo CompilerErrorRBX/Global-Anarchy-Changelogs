@@ -31,3 +31,4 @@ ________
 - Fixed a bug causing NPCs to get stuck in T-pose at the center of the map.
 - Fixed a bug where players with the default Anarchists skin would display with the default Globalists skin.
 - Fixed a bug where you can vault through out-of-bound clips.
+- Fixed a bug where RPG would reload in 1 second.
