@@ -12,6 +12,11 @@ ________
 ### 🔼 `Improvement` Character animations now preload in the loading screen
 - This should improve the "TPose" the characters do when you first join.
 
+### 🔼 `Improvement` UX is improved in Settings/Private Match UI
+- Cycle options now hide left/right buttons if there are no options
+- Easier to select buttons
+- Improved controller DPAD support
+
 ### 💄 `Cosmetic` Cosmetic
 
 ________
