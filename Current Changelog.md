@@ -16,7 +16,7 @@ ________
 - Cycle options now hide left/right buttons if there are no options.
 - Easier to select buttons.
 - Improved controller DPAD support.
-- 
+
 ### 🔼 `Improvement` Claymore beam colors now recolor if it is friendly or enemy
 
 ### 💄 `Cosmetic` Cosmetic
