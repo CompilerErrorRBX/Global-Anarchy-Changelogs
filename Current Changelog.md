@@ -19,6 +19,8 @@ ________
 
 ### 🔼 `Improvement` Claymore beam colors now recolor if it is friendly or enemy
 
+### 🔼 `Improvement` Spectating now shows if the player is crouching, proning, or sliding
+
 ### 💄 `Cosmetic` Cosmetic
 
 ________
