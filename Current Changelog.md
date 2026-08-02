@@ -27,7 +27,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Changed everything
+### ❗ `Change` Limited max active claymores to 2
 
 ________
 
