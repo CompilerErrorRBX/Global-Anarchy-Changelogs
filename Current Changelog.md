@@ -21,6 +21,14 @@ ________
 
 ### 🔼 `Improvement` Spectating now shows if the player is crouching, proning, or sliding
 
+### 🔼 `Improvement` Controller now has auto run
+- Default setting is true.
+- Toggle off in the settings.
+
+### 🔼 `Improvement` UX Improvements in Armory Selection UI
+- View no longer changes when an item is purchased.
+- Equip/Configure buttons now properly update on purchase.
+
 ### 💄 `Cosmetic` Cosmetic
 
 ________
