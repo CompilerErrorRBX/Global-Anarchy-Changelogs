@@ -40,6 +40,8 @@ ________
 
 ### ❗ `Change` After a slide you are now crouched
 
+### ❗ `Change` Reduced slide duration by 20%
+
 ________
 
 ## 🐛 Bugfixes
