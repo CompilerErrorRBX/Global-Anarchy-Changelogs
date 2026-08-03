@@ -7,7 +7,8 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` FEATURE
+### ✅ `Feature` Combat Stats UI
+- You can now see combat-stats about your player in the profile UI
 
 ### 🔼 `Improvement` Character animations now preload in the loading screen
 - This should improve the "TPose" the characters do when you first join.
