@@ -38,6 +38,8 @@ ________
 
 ### ❗ `Change` Limited max active claymores to 2
 
+### ❗ `Change` After a slide you are now crouched
+
 ________
 
 ## 🐛 Bugfixes
