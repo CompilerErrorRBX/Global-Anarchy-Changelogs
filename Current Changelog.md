@@ -41,6 +41,10 @@ ________
 
 ### 🔼 `Improvement` Added new weapon switch sounds for all guns
 
+### 🔼 `Improvement` Improved spawn system
+- In TDM based gamemodes you try to spawn nearby teammates.
+- In FFA based gamemodes we do more checks to prevent LOS of enemies on first spawn.
+
 
 ### 💄 `Cosmetic` Cosmetic
 
@@ -63,6 +67,7 @@ ________
 - Fixed a bug causing NPCs to get stuck in T-pose at the center of the map.
 - Fixed a bug where players with the default Anarchists skin would display with the default Globalists skin.
 - Fixed a bug where you can vault through out-of-bound clips.
+- Fixed some map out-of-bounds spots.
 - Fixed a bug where RPG would reload in 1 second.
 - Fixed "RELOAD" indicator not showing up on Intervention when low on ammo.
 - Fixed a bug causing Claymores to detonate twice when triggered.
