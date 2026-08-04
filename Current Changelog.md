@@ -39,6 +39,8 @@ ________
 - Reduce particle quality.
 - Turn off bullet tracer lights.
 
+### 🔼 `Improvement` Added new weapon switch sounds for all guns
+
 
 ### 💄 `Cosmetic` Cosmetic
 
