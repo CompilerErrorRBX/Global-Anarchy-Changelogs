@@ -30,6 +30,10 @@ ________
 - View no longer changes when an item is purchased.
 - Equip/Configure buttons now properly update on purchase.
 
+### 🔼 `Improvement` 4x Speed improvement in Player Animation system
+
+### 🔼 `Improvement` Character hitbox updating optimization
+
 ### 💄 `Cosmetic` Cosmetic
 
 ________
