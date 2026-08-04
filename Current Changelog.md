@@ -34,6 +34,12 @@ ________
 
 ### 🔼 `Improvement` Character hitbox updating optimization
 
+### 🔼 `Improvement` Added new graphics options
+- Disable Ragdolls.
+- Reduce particle quality.
+- Turn off bullet tracer lights.
+
+
 ### 💄 `Cosmetic` Cosmetic
 
 ________
