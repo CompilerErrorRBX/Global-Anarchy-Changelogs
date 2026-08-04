@@ -46,6 +46,9 @@ ________
 
 ## ⚖️ Changes
 
+### ❗ `Change` When you prestige you now keep the same number of loadouts as you had before
+- The loadouts still clear.
+
 ### ❗ `Change` Limited max active claymores to 2
 
 ### ❗ `Change` After a slide you are now crouched
