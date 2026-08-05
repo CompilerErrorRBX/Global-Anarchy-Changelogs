@@ -34,6 +34,9 @@ ________
 
 ### 🔼 `Improvement` Character hitbox updating optimization
 
+### 🔼 `Improvement` Upgraded to deferred signal behavior
+- This improved
+
 ### 🔼 `Improvement` Added new graphics options
 - Disable Ragdolls.
 - Reduce particle quality.
@@ -60,6 +63,8 @@ ________
 ### ❗ `Change` After a slide you are now crouched
 
 ### ❗ `Change` Reduced slide duration by 20%
+
+### ❗ `Change` Increased recoil of Intervention by 66%
 
 ________
 
