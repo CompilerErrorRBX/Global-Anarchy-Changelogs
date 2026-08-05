@@ -35,7 +35,8 @@ ________
 ### 🔼 `Improvement` Character hitbox updating optimization
 
 ### 🔼 `Improvement` Upgraded to deferred signal behavior
-- This improved
+- This is a requirement to move towards fully server-authoritative movement. More to come soon.
+- This also improves code execution performance via interleaving.
 
 ### 🔼 `Improvement` Added new graphics options
 - Disable Ragdolls.
