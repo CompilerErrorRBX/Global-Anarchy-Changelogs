@@ -77,3 +77,5 @@ ________
 - Fixed a bug where RPG would reload in 1 second.
 - Fixed "RELOAD" indicator not showing up on Intervention when low on ammo.
 - Fixed a bug causing Claymores to detonate twice when triggered.
+- Fixed a bug where controller players could not accept a late invite.
+- Fixed a bug where Friend Bonus booster was not correctly getting applied. It now shows an icon on your top bar.
