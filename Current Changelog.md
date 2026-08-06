@@ -85,3 +85,5 @@ ________
 - Fixed a bug where Friend Bonus booster was not correctly getting applied. It now shows an icon on your top bar.
 - Fixed a bug causing Predator Missile to get no explosive damage.
 - Fixed a bug preventing you from purchasing items in the store on a controller.
+- Fixed OOB issue in Mill
+- Fixed OOB issue in Suburbs
