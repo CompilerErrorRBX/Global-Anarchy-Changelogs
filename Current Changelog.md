@@ -67,6 +67,8 @@ ________
 
 ### ❗ `Change` Increased recoil of Intervention by 66%
 
+### ❗ `Change` Buffed Flack Jacket explosion resistance by 30%
+
 ________
 
 ## 🐛 Bugfixes
@@ -79,3 +81,4 @@ ________
 - Fixed a bug causing Claymores to detonate twice when triggered.
 - Fixed a bug where controller players could not accept a late invite.
 - Fixed a bug where Friend Bonus booster was not correctly getting applied. It now shows an icon on your top bar.
+- Fixed a bug causing Predator Missile to get no explosive damage.
