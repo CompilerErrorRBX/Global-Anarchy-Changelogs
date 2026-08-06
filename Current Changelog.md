@@ -49,6 +49,8 @@ ________
 - In TDM based gamemodes you try to spawn nearby teammates.
 - In FFA based gamemodes we do more checks to prevent LOS of enemies on first spawn.
 
+### 🔼 `Improvement` You can no longer stand up while blocked
+
 
 ### 💄 `Cosmetic` Cosmetic
 
