@@ -51,6 +51,10 @@ ________
 
 ### 🔼 `Improvement` You can no longer stand up while blocked
 
+### 🔼 `Improvement` Added reload sound to RPG
+
+### 🔼 `Improvement` Improved weapon melee sound
+
 
 ### 💄 `Cosmetic` Cosmetic
 
