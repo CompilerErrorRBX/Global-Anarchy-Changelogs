@@ -9,7 +9,7 @@ ________
 
 ### ✅ `Feature` Feature
 
-### 🔼 `Improvement` Improvement
+### 🔼 `Improvement` Quick Draw perk now also lets you swap weapons faster
 
 ### 💄 `Cosmetic` Cosmetic
 
