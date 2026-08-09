@@ -1,4 +1,4 @@
-# 📑 Changelog 07/31/2026 - 08/xx/2026
+# 📑 Changelog 08/07/2026 - 08/xx/2026
 
 ## 🟢 Status `Unreleased`
 
@@ -7,54 +7,9 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Combat Stats UI
-- You can now see combat-stats about your player in the profile UI
+### ✅ `Feature` Feature
 
-### 🔼 `Improvement` Character animations now preload in the loading screen
-- This should improve the "TPose" the characters do when you first join.
-
-### 🔼 `Improvement` UX is improved in Settings/Private Match UI
-- Cycle options now hide left/right buttons if there are no options.
-- Easier to select buttons.
-- Improved controller DPAD support.
-
-### 🔼 `Improvement` Claymore beam colors now recolor if it is friendly or enemy
-
-### 🔼 `Improvement` Spectating now shows if the player is crouching, proning, or sliding
-
-### 🔼 `Improvement` Controller now has auto run
-- Default setting is true.
-- Toggle off in the settings.
-
-### 🔼 `Improvement` UX Improvements in Armory Selection UI
-- View no longer changes when an item is purchased.
-- Equip/Configure buttons now properly update on purchase.
-
-### 🔼 `Improvement` 4x Speed improvement in Player Animation system
-
-### 🔼 `Improvement` Character hitbox updating optimization
-
-### 🔼 `Improvement` Upgraded to deferred signal behavior
-- This is a requirement to move towards fully server-authoritative movement. More to come soon.
-- This also improves code execution performance via interleaving.
-
-### 🔼 `Improvement` Added new graphics options
-- Disable Ragdolls.
-- Reduce particle quality.
-- Turn off bullet tracer lights.
-
-### 🔼 `Improvement` Added new weapon switch sounds for all guns
-
-### 🔼 `Improvement` Improved spawn system
-- In TDM based gamemodes you try to spawn nearby teammates.
-- In FFA based gamemodes we do more checks to prevent LOS of enemies on first spawn.
-
-### 🔼 `Improvement` You can no longer stand up while blocked
-
-### 🔼 `Improvement` Added reload sound to RPG
-
-### 🔼 `Improvement` Improved weapon melee sound
-
+### 🔼 `Improvement` Improvement
 
 ### 💄 `Cosmetic` Cosmetic
 
@@ -62,32 +17,11 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` When you prestige you now keep the same number of loadouts as you had before
-- The loadouts still clear.
-
-### ❗ `Change` Limited max active claymores to 2
-
-### ❗ `Change` After a slide you are now crouched
-
-### ❗ `Change` Reduced slide duration by 20%
-
-### ❗ `Change` Increased recoil of Intervention by 66%
-
-### ❗ `Change` Buffed Flack Jacket explosion resistance by 30%
+### ❗ `Change` Change
 
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug causing NPCs to get stuck in T-pose at the center of the map.
-- Fixed a bug where players with the default Anarchists skin would display with the default Globalists skin.
-- Fixed a bug where you can vault through out-of-bound clips.
-- Fixed some map out-of-bounds spots.
-- Fixed a bug where RPG would reload in 1 second.
-- Fixed "RELOAD" indicator not showing up on Intervention when low on ammo.
-- Fixed a bug causing Claymores to detonate twice when triggered.
-- Fixed a bug where controller players could not accept a late invite.
-- Fixed a bug where Friend Bonus booster was not correctly getting applied. It now shows an icon on your top bar.
-- Fixed a bug causing Predator Missile to get no explosive damage.
-- Fixed a bug preventing you from purchasing items in the store on a controller.
-- Fixed OOB issue in Mill
-- Fixed OOB issue in Suburbs
+- Fixed a bug causing invisible player clips getting left behind
+- Fixed a bug causing teammates/enemies to be incorrectly displayed
+- Fixed a bug where prestiging would create multiple buy-loadout buttons
