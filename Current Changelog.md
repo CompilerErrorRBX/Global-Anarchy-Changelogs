@@ -14,6 +14,8 @@ ________
 ### 🔼 `Improvement` Replaced K.S.S.O Elite and Spetsnaz faction radio voice
 - Replaced AI voice with Human voice.
 
+### 🔼 `Improvement` Add internal tracking to scorestreak usage
+
 ### 💄 `Cosmetic` Cosmetic
 
 ________
