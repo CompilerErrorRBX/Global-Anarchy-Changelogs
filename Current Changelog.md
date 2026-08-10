@@ -22,7 +22,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` Increased character interpolation speed
 
 ________
 
