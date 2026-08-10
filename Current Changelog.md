@@ -11,6 +11,9 @@ ________
 
 ### 🔼 `Improvement` Quick Draw perk now also lets you swap weapons faster
 
+### 🔼 `Improvement` Replaced K.S.S.O Elite and Spetsnaz faction radio voice
+- Replaced AI voice with Human voice.
+
 ### 💄 `Cosmetic` Cosmetic
 
 ________
