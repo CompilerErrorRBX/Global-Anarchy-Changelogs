@@ -32,3 +32,4 @@ ________
 - Fixed a bug where prestiging would create multiple buy-loadout buttons.
 - Fixed a bug where joining a match during intermission doesn't properly display the map vote UI.
 - Fixed a bug where when you died while prone you did not spawn standing properly.
+- Fixed buggy menu transitions when spamming buttons.
