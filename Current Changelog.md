@@ -25,6 +25,7 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug causing invisible player clips getting left behind
-- Fixed a bug causing teammates/enemies to be incorrectly displayed
-- Fixed a bug where prestiging would create multiple buy-loadout buttons
+- Fixed a bug causing invisible player clips getting left behind.
+- Fixed a bug causing teammates/enemies to be incorrectly displayed.
+- Fixed a bug where prestiging would create multiple buy-loadout buttons.
+- Fixed a bug where joining a match during intermission doesn't properly display the map vote UI.
