@@ -20,6 +20,8 @@ ________
 
 ### 🔼 `Improvement` `Sleight Of Hand` now speeds up rechambering animations
 
+### 🔼 `Improvement` Aim assist is now disabled when throwing a lethal/tactical
+
 ### 💄 `Cosmetic` Cosmetic
 
 ________
