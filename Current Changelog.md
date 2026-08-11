@@ -16,6 +16,8 @@ ________
 
 ### 🔼 `Improvement` Add internal tracking to scorestreak usage
 
+### 🔼 `Improvement` `Sleight Of Hand` now speeds up rechambering animations
+
 ### 💄 `Cosmetic` Cosmetic
 
 ________
