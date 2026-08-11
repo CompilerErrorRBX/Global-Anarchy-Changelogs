@@ -16,6 +16,8 @@ ________
 
 ### 🔼 `Improvement` Add internal tracking to scorestreak usage
 
+### 🔼 `Improvement` Controller players can now use the in-game vote system
+
 ### 🔼 `Improvement` `Sleight Of Hand` now speeds up rechambering animations
 
 ### 💄 `Cosmetic` Cosmetic
