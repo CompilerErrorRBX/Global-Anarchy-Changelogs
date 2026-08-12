@@ -34,6 +34,10 @@ ________
 
 ### ❗ `Change` Reduced crouch-prone toggle button delay from 0.5s to 0.33s
 
+### ❗ `Change` Raised score for `Advanced UAV` from 600 to 850
+
+### ❗ `Change` Reduced score for `Predator Missile` from 650 to 600
+
 ________
 
 ## 🐛 Bugfixes
