@@ -44,3 +44,5 @@ ________
 - Fixed a bug where you get stuck rubber banding if you die while sliding.
 - (Hopefully) Fixed a bug where you get stuck rubber banding mid-life (Server/client disagreement about how fast you're allowed to go).
 - Fixed a bug where when you become a zombie in infected your dead body does not ragdoll.
+- Fixed a bug where spamming crouch would bug out prone.
+- Fixed a bug when uncrouching on a ramp would cancel your sprint.
