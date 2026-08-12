@@ -32,6 +32,8 @@ ________
 
 ### ❗ `Change` Aim assist is now disabled when throwing a lethal/tactical
 
+### ❗ `Change` Reduced crouch-prone toggle button delay from 0.5s to 0.33s
+
 ________
 
 ## 🐛 Bugfixes
