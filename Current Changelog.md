@@ -52,3 +52,4 @@ ________
 - Fixed a bug where when you become a zombie in infected your dead body does not ragdoll.
 - Fixed a bug where spamming crouch would bug out prone.
 - Fixed a bug when slide-canceling on a ramp would cancel your sprint.
+- Fixed (another) bug causing player models to render at 0,0,0.
