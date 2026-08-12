@@ -20,6 +20,8 @@ ________
 
 ### 🔼 `Improvement` `Sleight Of Hand` now speeds up rechambering animations
 
+### 🔼 `Improvement` Added aim sounds for guns
+
 ### 💄 `Cosmetic` Cosmetic
 
 ________
