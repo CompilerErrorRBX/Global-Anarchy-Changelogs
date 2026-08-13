@@ -22,9 +22,6 @@ ________
 
 ### 🔼 `Improvement` Added aim sounds for guns
 
-### 🔼 `Improvement` Reduced bots cone of vision
-- Bots no longer target you in impossible ways
-
 ### 💄 `Cosmetic` Cosmetic
 
 ________
@@ -40,6 +37,9 @@ ________
 ### ❗ `Change` Raised score for `Advanced UAV` from 600 to 850
 
 ### ❗ `Change` Reduced score for `Predator Missile` from 650 to 600
+
+### ❗ `Change` Reduced bots cone of vision
+- Bots no longer target you in impossible ways
 
 ________
 
