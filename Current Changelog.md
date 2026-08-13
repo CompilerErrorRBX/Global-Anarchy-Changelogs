@@ -58,3 +58,4 @@ ________
 - Fixed (another) bug causing player models to render at 0,0,0.
 - Fixed a bug causing crashing on map load.
 - Fixed a bug where your class selection UI wouldn't show.
+- Fixed a bug where weapon icons were not rendering properly in combat stats and end-game stats UIs.
