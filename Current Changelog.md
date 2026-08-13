@@ -53,3 +53,5 @@ ________
 - Fixed a bug where spamming crouch would bug out prone.
 - Fixed a bug when slide-canceling on a ramp would cancel your sprint.
 - Fixed (another) bug causing player models to render at 0,0,0.
+- Fixed a bug causing crashing on map load.
+- Fixed a bug where your class selection UI wouldn't show.
