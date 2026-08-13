@@ -22,6 +22,9 @@ ________
 
 ### 🔼 `Improvement` Added aim sounds for guns
 
+### 🔼 `Improvement` Reduced bots cone of vision
+- Bots no longer target you in impossible ways
+
 ### 💄 `Cosmetic` Cosmetic
 
 ________
