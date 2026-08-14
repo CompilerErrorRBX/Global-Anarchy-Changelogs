@@ -59,3 +59,4 @@ ________
 - Fixed a bug causing crashing on map load.
 - Fixed a bug where your class selection UI wouldn't show.
 - Fixed a bug where weapon icons were not rendering properly in combat stats and end-game stats UIs.
+- Fixed a bug where disabling ragdolls caused enemies to TPose where they died.
