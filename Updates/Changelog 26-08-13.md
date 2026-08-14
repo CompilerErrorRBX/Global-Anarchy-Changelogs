@@ -1,0 +1,58 @@
+# 📑 Changelog 08/07/2026 - 08/13/2026
+
+## 🟢 Status `Released`
+
+## 💬 Patch Notes
+________
+
+## 📢 Features and Improvements
+
+### 🔼 `Improvement` Quick Draw perk now also lets you swap weapons faster
+
+### 🔼 `Improvement` Replaced K.S.S.O Elite and Spetsnaz faction radio voice
+- Replaced AI voice with Human voice.
+
+### 🔼 `Improvement` Add internal tracking to scorestreak usage
+
+### 🔼 `Improvement` Controller players can now use the in-game vote system
+
+### 🔼 `Improvement` `Sleight Of Hand` now speeds up rechambering animations
+
+### 🔼 `Improvement` Added aim sounds for guns
+
+________
+
+## ⚖️ Changes
+
+### ❗ `Change` Increased character interpolation speed
+
+### ❗ `Change` Aim assist is now disabled when throwing a lethal/tactical
+
+### ❗ `Change` Reduced crouch-prone toggle button delay from 0.5s to 0.33s
+
+### ❗ `Change` Raised score for `Advanced UAV` from 600 to 850
+
+### ❗ `Change` Reduced score for `Predator Missile` from 650 to 600
+
+### ❗ `Change` Reduced bots cone of vision
+- Bots no longer target you in impossible ways
+
+________
+
+## 🐛 Bugfixes
+- Fixed a bug causing invisible player clips getting left behind.
+- Fixed a bug causing teammates/enemies to be incorrectly displayed.
+- Fixed a bug where prestiging would create multiple buy-loadout buttons.
+- Fixed a bug where joining a match during intermission doesn't properly display the map vote UI.
+- Fixed a bug where when you died while prone you did not spawn standing properly.
+- Fixed some buggy menu transitions when spamming buttons.
+- Fixed a bug where you get stuck rubber banding if you die while sliding.
+- (Hopefully) Fixed a bug where you get stuck rubber banding mid-life (Server/client disagreement about how fast you're allowed to go).
+- Fixed a bug where when you become a zombie in infected your dead body does not ragdoll.
+- Fixed a bug where spamming crouch would bug out prone.
+- Fixed a bug when slide-canceling on a ramp would cancel your sprint.
+- Fixed (another) bug causing player models to render at 0,0,0.
+- Fixed a bug causing crashing on map load.
+- Fixed a bug where your class selection UI wouldn't show.
+- Fixed a bug where weapon icons were not rendering properly in combat stats and end-game stats UIs.
+- Fixed a bug where disabling ragdolls caused enemies to TPose where they died.
