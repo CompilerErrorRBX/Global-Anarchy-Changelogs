@@ -25,3 +25,4 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug where recoil would not reset properly after shooting.
+- Fixed a bug where you cannot click the "Purchase" button on a booster in the Inventory UI.
