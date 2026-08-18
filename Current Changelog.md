@@ -21,4 +21,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug
+- Fixed a bug where recoil would not reset properly after shooting.
