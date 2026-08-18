@@ -12,7 +12,7 @@ ________
 ### 🔼 `Improvement` Updated Domination spawn logic
 
 ### 🔼 `Improvement` Player nameplates now follow your visual character
-- Before they followed your server-sided character, which causes some odd visual desyncs
+- Before they followed your server-sided character, which causes some odd visual desyncs.
 
 ### 💄 `Cosmetic` Cosmetic
 
