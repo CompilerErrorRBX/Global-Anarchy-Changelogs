@@ -15,6 +15,8 @@ ________
 
 ### 🔼 `Improvement` Players now properly display as teammates when spectating them
 
+### 🔼 `Improvement` Flashbang and concussion effects are now removed upon death
+
 ### 🔼 `Improvement` Player nameplates now follow your visual character
 - Before they followed your server-sided character, which causes some odd visual desyncs.
 
@@ -27,6 +29,8 @@ ________
 ### ❗ `Change` Buffed Ninja perk
 - Entities that can "see" you now have an increased delay.
 - Right now this affects Claymores and Attack Helicopters.
+
+### ❗ `Change` Buffed all daily challenge rewards
   
 ________
 
