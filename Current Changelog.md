@@ -15,6 +15,8 @@ ________
 
 ### 🔼 `Improvement` Players now properly display as teammates when spectating them
 
+### 🔼 `Improvement` Minimap now properly displays when spectating
+
 ### 🔼 `Improvement` Flashbang and concussion effects are now removed upon death
 
 ### 🔼 `Improvement` Player nameplates now follow your visual character
