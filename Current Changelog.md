@@ -31,6 +31,9 @@ ________
 - Right now this affects Claymores and Attack Helicopters.
 
 ### ❗ `Change` Buffed all daily challenge rewards
+
+### ❗ `Change` Extra pin perk now ONLY gives an extra grenade
+- Claymores and throwing knifes are not grenades!
   
 ________
 
