@@ -24,6 +24,8 @@ ________
 ### 🔼 `Improvement` Settings UI and Private Match UI
 - Improved inconsistent button alignment
 - The correct font is now used
+  
+### 🔼 `Improvement` Settings UI can now be opened while in game
 
 ### 🔼 `Improvement` Player nameplates now follow your visual character
 - Before they followed your server-sided character, which causes some odd visual desyncs.
