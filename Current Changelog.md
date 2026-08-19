@@ -50,3 +50,4 @@ ________
 - Fixed a bug where selecting scorestreaks in Armory Selection UI would not visually update upon equipping.
 - Fixed a bug where the knife sound was audible from too far away.
 - (Hopefully) Fixed a bug where you would respawn with a sprinting animation but be moving at your walk-speed.
+- (Hopefully) Fixed a bug where you would respawn holding a secondary weapon.
