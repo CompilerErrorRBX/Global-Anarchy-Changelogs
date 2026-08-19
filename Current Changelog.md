@@ -41,3 +41,4 @@ ________
 - Fixed a bug where recoil would not reset properly after shooting.
 - Fixed a bug where you cannot click the "Purchase" button on a booster in the Inventory UI.
 - Fixed a bug where if you take out the same weapon twice, it breaks weapon rendering.
+- Fixed a bug where selecting scorestreaks in Armory Selection UI would not visually update upon equipping.
