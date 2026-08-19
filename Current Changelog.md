@@ -23,6 +23,7 @@ ________
 
 ### 🔼 `Improvement` Settings UI and Private Match UI
 - Improved inconsistent button alignment
+- Improved inconsistent description text sizes
 - The correct font is now used
   
 ### 🔼 `Improvement` Settings UI can now be opened while in game
