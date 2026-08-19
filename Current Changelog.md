@@ -7,7 +7,9 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Feature
+### ✅ `Feature` Add "Animation Quality" setting
+- This controls the map amount of player animation updates per frame.
+- Default is Low.
 
 ### 🔼 `Improvement` Updated Domination spawn logic
 
