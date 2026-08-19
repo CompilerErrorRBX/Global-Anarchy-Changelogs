@@ -11,6 +11,10 @@ ________
 
 ### 🔼 `Improvement` Updated Domination spawn logic
 
+### 🔼 `Improvement` When using a predator missile dead players will no longer display as a target
+
+### 🔼 `Improvement` Players now properly display as teammates when spectating them
+
 ### 🔼 `Improvement` Player nameplates now follow your visual character
 - Before they followed your server-sided character, which causes some odd visual desyncs.
 
@@ -20,7 +24,10 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` Buffed Ninja perk
+- Entities that can "see" you now have an increased delay.
+- Right now this affects Claymores and Attack Helicopters.
+  
 ________
 
 ## 🐛 Bugfixes
