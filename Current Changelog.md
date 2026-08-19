@@ -21,6 +21,8 @@ ________
 
 ### 🔼 `Improvement` Flashbang and concussion effects are now removed upon death
 
+### 🔼 `Improvement` Settings UI and Private match UI now use the correct font
+
 ### 🔼 `Improvement` Player nameplates now follow your visual character
 - Before they followed your server-sided character, which causes some odd visual desyncs.
 
