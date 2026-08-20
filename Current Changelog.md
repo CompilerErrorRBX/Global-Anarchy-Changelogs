@@ -35,6 +35,10 @@ ________
 ### 🔼 `Improvement` Player nameplates now follow your visual character
 - Before they followed your server-sided character, which causes some odd visual desyncs.
 
+### 🔼 `Improvement` "Back" button in the menu now acts as a back button
+- Previously it would take you back to a hardcoded page
+- Now there is an actual "menu stack" so you can open multiple menus and properly navigate them backwards
+
 ### 💄 `Cosmetic` Cosmetic
 
 ________
