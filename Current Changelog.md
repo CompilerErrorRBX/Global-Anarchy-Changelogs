@@ -58,5 +58,6 @@ ________
 - Fixed a bug where if you take out the same weapon twice, it breaks weapon rendering.
 - Fixed a bug where selecting scorestreaks in Armory Selection UI would not visually update upon equipping.
 - Fixed a bug where the knife sound was audible from too far away.
+- Fixed a bug where clicking "back" in the weapon configuration UI would cause the armory selection UI to malfunction.
 - (Hopefully) Fixed a bug where you would respawn with a sprinting animation but be moving at your walk-speed.
 - (Hopefully) Fixed a bug where you would respawn holding a secondary weapon.
