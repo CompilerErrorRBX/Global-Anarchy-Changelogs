@@ -14,6 +14,8 @@ ________
 ### ✅ `Feature` Add Fly Swatter medal
 - When you destroy an Attack Helicopter, you are awarded 500 xp.
 
+### 🔼 `Improvement` Added weapon inspect animations
+
 ### 🔼 `Improvement` Double-clicking menu items in the armory now equips them
 
 ### 🔼 `Improvement` Updated Domination spawn logic
@@ -55,6 +57,8 @@ ________
 
 ### ❗ `Change` Nerfed Extra Pin perk
 - Now only gives an extra grenade, excluding Claymores and Throwing Knives.
+
+### ❗ `Change` Reduced the volume of weapon aim sounds by 20%
   
 ________
 
