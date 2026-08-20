@@ -16,6 +16,8 @@ ________
 
 ### 🔼 `Improvement` Added weapon inspect animations
 
+### 🔼 `Improvement` Added knife sheath/unsheath sounds
+
 ### 🔼 `Improvement` Double-clicking menu items in the armory now equips them
 
 ### 🔼 `Improvement` Updated Domination spawn logic
