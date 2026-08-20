@@ -80,3 +80,4 @@ ________
 - Fixed a bug where the Attack Helicopter would not give radio notifications.
 - (Hopefully) Fixed a bug where you would respawn with a sprinting animation but be moving at your walk-speed.
 - (Hopefully) Fixed a bug where you would respawn holding a secondary weapon.
+- (Hopefully) Fixed a bug where you couldn't shoot glass.
