@@ -25,11 +25,12 @@ ________
 ### 🔼 `Improvement` Flashbang and concussion effects are now removed upon death
 
 ### 🔼 `Improvement` Settings UI and Private Match UI
-- Improved inconsistent button alignment
-- Improved inconsistent description text sizes
-- The correct font is now used
+- Improved inconsistent button alignment.
+- Improved inconsistent description text sizes.
+- The correct font is now used.
   
 ### 🔼 `Improvement` Settings UI can now be opened while in game
+- Added the settings button to the loadout selection UI.
 
 ### 🔼 `Improvement` Player nameplates now follow your visual character
 - Before they followed your server-sided character, which causes some odd visual desyncs.
