@@ -14,6 +14,8 @@ ________
 ### ✅ `Feature` Add Fly Swatter medal
 - When you destroy an Attack Helicopter, you are awarded 500 xp.
 
+### 🔼 `Improvement` Double-clicking menu items in the armory now equips them
+
 ### 🔼 `Improvement` Updated Domination spawn logic
 
 ### 🔼 `Improvement` When using a predator missile dead players will no longer display as a target
