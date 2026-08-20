@@ -46,8 +46,8 @@ ________
 
 ### ❗ `Change` Buffed all daily challenge rewards
 
-### ❗ `Change` Extra pin perk now only gives an extra GRENADE
-- Claymores and throwing knifes are not grenades!
+### ❗ `Change` Nerfed Extra Pin perk
+- Now only gives an extra grenade, excluding Claymores and Throwing Knives.
   
 ________
 
