@@ -64,6 +64,8 @@ ________
 - Now only gives an extra grenade, excluding Claymores and Throwing Knives.
 
 ### ❗ `Change` Reduced the volume of weapon aim sounds by 20%
+
+### ❗ `Change` Adjusted viewmodel position of Intervention
   
 ________
 
