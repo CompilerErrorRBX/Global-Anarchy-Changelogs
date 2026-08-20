@@ -18,6 +18,9 @@ ________
 
 ### 🔼 `Improvement` Added knife sheath/unsheath sounds
 
+### 🔼 `Improvement` Improved Armory UX
+- Hovering over a class now "previews" it to match how other UIs already work
+
 ### 🔼 `Improvement` Double-clicking menu items in the armory now equips them
 
 ### 🔼 `Improvement` Updated Domination spawn logic
