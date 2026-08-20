@@ -10,6 +10,9 @@ ________
 ### ✅ `Feature` Add "Animation Quality" setting
 - This controls the map amount of player animation updates per frame.
 - Default is Low.
+  
+### ✅ `Feature` Add Fly Swatter medal
+- When you destroy an Attack Helicopter, you are awarded 500 xp.
 
 ### 🔼 `Improvement` Updated Domination spawn logic
 
