@@ -68,6 +68,7 @@ ________
 ________
 
 ## 🐛 Bugfixes
+- Fixed a bug where when you ADS your gun could be misaligned.
 - Fixed a bug where recoil would not reset properly after shooting.
 - Fixed a bug where you cannot click the "Purchase" button on a booster in the Inventory UI.
 - Fixed a bug where if you take out the same weapon twice, it breaks weapon rendering.
