@@ -65,6 +65,10 @@ ________
 
 ### ❗ `Change` Reduced the volume of weapon aim sounds by 20%
 
+### ❗ `Change` MDX move speed multiplier nerfed from 87.5% -> 82.5%
+
+### ❗ `Change` M4A1 damage nerfed from 36 -> 33
+
 ### ❗ `Change` Adjusted viewmodel position of Intervention
   
 ________
