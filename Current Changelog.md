@@ -24,3 +24,4 @@ ________
 ## 🐛 Bugfixes
 - Fixed a bug where calling a MOAB with an active Attack Helicopter would cause it to die multiple times, giving too much XP.
 - Fixed a bug where you can destroy a teammates helicopter and be rewarded for it.
+- Fixed a bug where controller players couldn't open the in-game settings while deployed.
