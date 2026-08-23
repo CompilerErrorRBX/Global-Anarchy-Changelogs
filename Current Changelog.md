@@ -10,6 +10,7 @@ ________
 ### ✅ `Feature` Added shooting cooldown from sprinting
 - Each gun has an internal cooldown value for when you sprint.
 - During cooldown you cannot fire.
+- QuickDraw perk halfs this cooldown.
 
 ### 🔼 `Improvement` Improvement
 
