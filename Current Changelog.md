@@ -7,7 +7,9 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Feature
+### ✅ `Feature` Added shooting cooldown from sprinting
+- Each gun has an internal cooldown value for when you sprint.
+- During cooldown you cannot fire.
 
 ### 🔼 `Improvement` Improvement
 
