@@ -13,6 +13,10 @@ ________
 - Each gun has an internal cooldown value for when you sprint.
 - During cooldown you cannot fire.
 - QuickDraw perk halfs this cooldown.
+
+### 🔼 `Improvement` Added more glass shatter sfx
+- Large shatters play the original sound.
+- Small shatters play a new sound.
   
 ________
 
