@@ -28,3 +28,5 @@ ________
 - Fixed a bug where calling a MOAB  would cause old Attack Helicopters to die (ones already flown away), giving too much XP.
 - Fixed a bug where teammates could destroy friendly scorestreaks.
 - Fixed a bug where controller players couldn't open the in-game settings while deployed.
+- Fixed a bug where navigating back to the title screen caused the UI to go blank.
+- Fixed a bug where you could not leave the armory UI.
