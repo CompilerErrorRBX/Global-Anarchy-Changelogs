@@ -1,4 +1,4 @@
-# 📑 Changelog 08/21/2026 - 08/xx/2026
+# 📑 Changelog 08/23/2026 - 08/xx/2026
 
 ## 🟢 Status `Unreleased`
 
@@ -7,10 +7,7 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Added shooting cooldown from sprinting
-- Each gun has an internal cooldown value for when you sprint.
-- During cooldown you cannot fire.
-- QuickDraw perk halfs this cooldown.
+### ✅ `Feature` Feature
 
 ### 🔼 `Improvement` Improvement
 
@@ -25,8 +22,5 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug where calling a MOAB  would cause old Attack Helicopters to die (ones already flown away), giving too much XP.
-- Fixed a bug where teammates could destroy friendly scorestreaks.
-- Fixed a bug where controller players couldn't open the in-game settings while deployed.
-- Fixed a bug where navigating back to the title screen caused the UI to go blank.
-- Fixed a bug where you could not leave the armory UI.
+- Fixed a bug where you could take out the weapon slot you already have equipped.
+- Fixed a bug where you could attempt to take out a weapon slot that does not exist.
