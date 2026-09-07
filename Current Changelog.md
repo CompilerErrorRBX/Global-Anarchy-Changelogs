@@ -13,11 +13,13 @@ ________
 ### 🔫 `Weapon` PKM
 - Heavy LMG with detachable 75 round box magazine.
 
-### ✅ `Feature` Implemented new titlescreen background
+### ✅ `Feature` Implemented New Titlescreen Background
 - Squadmates now display here.
 
 ### 🔼 `Improvement` Improved Third Person Animation System
 - Some small bug fixes and performance improvements.
+- 
+### 🔼 `Improvement` Added Inspect Hotkey for Gamepad (D-Pad Left)
 
 ### 💄 `Cosmetic` Cosmetic
 
