@@ -7,7 +7,11 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Feature
+### 🔫 `Weapon` Mosin
+- Bolt action sniper with a 5 round internal magazine.
+
+### 🔫 `Weapon` PKM
+- Heavy LMG with detachable 75 round box magazine.
 
 ### 🔼 `Improvement` Improved Third Person Animation System
 - Some small bug fixes and performance improvements.
