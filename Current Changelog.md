@@ -28,3 +28,4 @@ ________
 - Fixed a bug with player animations starting with an incorrect weight.
 - Fixed a bug causing weapon-speed-modifier attribute to no longer get applied correctly.
 - Fixed a bug causing the class loadout screen to not display correctly on your first life.
+- Fixed a bug causing gamepad players to not be able to open the scoreboard UI.
