@@ -13,6 +13,9 @@ ________
 ### 🔫 `Weapon` PKM
 - Heavy LMG with detachable 75 round box magazine.
 
+### ✅ `Feature` Implemented new titlescreen background
+- Squadmates now display here.
+
 ### 🔼 `Improvement` Improved Third Person Animation System
 - Some small bug fixes and performance improvements.
 
