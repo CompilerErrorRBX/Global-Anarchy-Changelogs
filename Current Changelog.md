@@ -18,7 +18,7 @@ ________
 
 ### 🔼 `Improvement` Improved Third Person Animation System
 - Some small bug fixes and performance improvements.
-- 
+
 ### 🔼 `Improvement` Added Inspect Hotkey for Gamepad (D-Pad Left)
 
 ### 💄 `Cosmetic` Cosmetic
