@@ -28,6 +28,9 @@ ________
 ## ⚖️ Changes
 
 ### ❗ `Change` Renamed MP5 to KM9
+
+### ❗ `Change` Reload Cancelling on Looped-Reloading Guns
+- Previously it would attempt to shoot, causing inconsistent behavior.
   
 ________
 
@@ -38,3 +41,4 @@ ________
 - Fixed a bug causing weapon-speed-modifier attribute to no longer get applied correctly.
 - Fixed a bug causing the class loadout screen to not display correctly on your first life.
 - Fixed a bug causing gamepad players to not be able to open the scoreboard UI.
+- Fixed a bug where guns that have a looped reload animation would get out of sync.
