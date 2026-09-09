@@ -21,7 +21,11 @@ ________
 
 ### 🔼 `Improvement` Added Inspect Hotkey for Gamepad (D-Pad Left)
 
-### 💄 `Cosmetic` Cosmetic
+### 💄 `Cosmetic` "New Sheriff In Town" Bundle
+- Sheriff Globalist Operator & Playercard
+- Assassin Anarchist Operator & Playercard
+- Wild West Mosin Skin
+- Black Glass MDX Skin
 
 ________
 
