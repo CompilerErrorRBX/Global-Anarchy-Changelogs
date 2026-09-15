@@ -27,3 +27,4 @@ ________
 - Fixed a bug where using scavenger could auto-reload your weapon.
 - Fixed a bug where the M9 had no weapon proficiencies.
 - Fixed a bug where broken glass would appear un-broken if you join mid-match.
+- Fixed a bug where you could not melee enemies.
