@@ -28,3 +28,4 @@ ________
 - Fixed a bug where the M9 had no weapon proficiencies.
 - Fixed a bug where broken glass would appear un-broken if you join mid-match.
 - Fixed a bug where you could not melee enemies.
+- Fixed a bug where Intervention could no longer be skinned.
