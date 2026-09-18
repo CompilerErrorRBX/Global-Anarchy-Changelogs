@@ -18,7 +18,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Changed a thing!
+### ❗ `Change` Increased movement speed multiplier of MDX by 5%
   
 ________
 
