@@ -7,11 +7,6 @@ ________
 
 ## 📢 Features and Improvements
 
-### 🔫 `Weapon` AWM
-- Bolt action sniper with a 5 round box magazine.
-
-### ✅ `Feature` Feature
-
 ### 🔼 `Improvement` Bots now respect the weapons configured sprint-timeout before being able to shoot.
 
 ________
@@ -19,6 +14,8 @@ ________
 ## ⚖️ Changes
 
 ### ❗ `Change` Increased movement speed multiplier of MDX by 5%
+
+### ❗ `Change` Reduced max range of MP7 by 14%
   
 ________
 
