@@ -12,7 +12,7 @@ ________
 
 ### ✅ `Feature` Feature
 
-### 🔼 `Improvement` Improved everything!
+### 🔼 `Improvement` Bots now respect the weapons configured sprint-timeout before being able to shoot.
 
 ________
 
