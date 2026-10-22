@@ -1,4 +1,4 @@
-# 📑 Changelog 09/20/2026 - 10/16/2026
+# 📑 Changelog 10/17/2026 - 10/22/2026
 
 ## 🟢 Status `Unreleased`
 
