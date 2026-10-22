@@ -3,55 +3,34 @@
 ## 🟢 Status `Unreleased`
 
 ## 💬 Patch Notes
-🎃 The Halloween event is here! Check out the spooky new Suburbs map and two new Halloween bundles.
-________
-
-## 🗺️ Map Changes
-
-### Suburbs (Halloween)
-- Suburbs has been redone for Halloween.
-- Added spooky Halloween ambience sounds.
-
+We've rolled back server-authoritative movement while we keep working on it behind the scenes. Most of last update's improvements are still here, plus a brand new Play page, smoother animations and a pile of bug fixes.
 ________
 
 ## 📢 Features and Improvements
 
-### 🎃 `Event` Halloween Event
-- Spooky new Halloween title screen.
-- Halloween menu music.
+### ❗ `Change` Server Authority Rolled Back
+- Movement is back to the previous system while we iron out issues with server-authoritative movement.
+- Improvements made alongside it, like better performance and the controller auto-sprint fix, have been kept.
 
-### 💄 `Cosmetic` "Pumpkin Smasher" Bundle (Robux)
+### ✅ `Feature` New Play Page
+- Choosing how your squad plays now uses a new card-based Play page.
+- Casual is selected by default on public servers.
+- 🎯 Training Mission is coming soon!
 
-### 💄 `Cosmetic` "Revenant" Bundle (Freemium)
+### 🔼 `Improvement` Character Animations
+- Other players and bots no longer get stuck in the falling pose after landing on a slope.
+- A player's held weapon pose now updates correctly when they swap to fists from the inventory.
+- Climbing down a ladder no longer freezes the climbing animation.
 
-### ✅ `Feature` Server Authority
-- The game has been rewritten to use server-authoritative movement.
-- This is a big step towards preventing movement exploits.
+### 🔼 `Improvement` Performance
+- Characters on screen are now moved more efficiently, reducing physics work with many players nearby.
 
-### ✅ `Feature` +5% Permanent Gold Bonus per Prestige
-- Each time you prestige, a permanent +5% gold bonus is added to your profile.
-
-### 🔼 `Improvement` Mobile Performance
-- Improved bullet tracer performance.
-- Reduced network load.
-
-### 🔼 `Improvement` Reduced Network Traffic
-- Player aim (yaw/pitch) and character positions are now sent much more efficiently.
-- Bullet holes, tracers and gunfire are now sent much more efficiently.
-
-### 🔼 `Improvement` Semi-auto guns now work with auto-sprint on controller
-- Previously auto-sprint would get in the way of your shots, forcing a cooldown before every shot.
-
-________
-
-## ⚖️ Changes
-
-### ❗ `Change` Reduced sprint timeout on shotguns from 0.3s -> 0.15s
+### 🔼 `Improvement` Controller
+- Play page cards now show the standard controller highlight, like every other button.
+- Auto-sprint now waits a moment after you fire before kicking back in, so it no longer fights semi-auto shots.
 
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug where reload sounds could play twice.
-- Fixed a bug where you could get stuck in the falling animation.
-- Fixed a bug where picking a weapon up off the ground could give it the wrong fire mode.
-- Fixed a bug where slide cancelling could leave you crouched.
+- Fixed a bug where bullets could sometimes pass through glass instead of breaking it.
+- Fixed a bug where you could keep firing "phantom" shots that did nothing while your magazine was empty during a reload.
