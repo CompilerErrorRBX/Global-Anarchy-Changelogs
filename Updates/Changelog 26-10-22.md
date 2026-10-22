@@ -18,8 +18,7 @@ ________
 - 🎯 Training Mission is coming soon!
 
 ### 💄 `Cosmetic` Remastered Gold Skins
-- Every existing gold weapon skin has been remade from the ground up by our artist.
-- Gold skins now look sharper and shinier than ever. If you already own one, you get the upgrade for free!
+- Gold skins now look sharper and shinier
 
 ### 🔼 `Improvement` Character Animations
 - Other players and bots no longer get stuck in the falling pose after landing on a slope.
