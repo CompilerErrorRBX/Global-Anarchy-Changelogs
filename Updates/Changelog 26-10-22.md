@@ -3,7 +3,7 @@
 ## 🟢 Status `Released`
 
 ## 💬 Patch Notes
-We've rolled back server-authoritative movement while we keep working on it behind the scenes. Most of last update's improvements are still here, plus a brand new Play page, smoother animations and a pile of bug fixes.
+We've rolled back server-authoritative movement while we keep working on it behind the scenes. Most of last update's improvements are still here, plus a brand new Play page, remastered gold skins, smoother animations and a pile of bug fixes.
 ________
 
 ## 📢 Features and Improvements
@@ -16,6 +16,10 @@ ________
 - Choosing how your squad plays now uses a new card-based Play page.
 - Casual is selected by default on public servers.
 - 🎯 Training Mission is coming soon!
+
+### 💄 `Cosmetic` Remastered Gold Skins
+- Every existing gold weapon skin has been remade from the ground up by our artist.
+- Gold skins now look sharper and shinier than ever. If you already own one, you get the upgrade for free!
 
 ### 🔼 `Improvement` Character Animations
 - Other players and bots no longer get stuck in the falling pose after landing on a slope.
