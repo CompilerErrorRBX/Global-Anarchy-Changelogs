@@ -10,6 +10,9 @@ ________
 
 ### ✅ `Feature` Feature
 
+### 💄 `Cosmetic` Purchasable Calling Cards
+- 22 new calling cards in the shop.
+
 ### 🔼 `Improvement` Improved Map Voting UI
 - New modern style
 
