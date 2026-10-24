@@ -24,7 +24,9 @@ ________
 
 ### 🔼 `Improvement` Armory is now accessible while deployed
 
-### ❗ `Change` Removed "Equip" button in Armory Selection UI. Clicking a weapon now auto-equips it.
+### 🔼 `Improvement` Play Menu is now easier to use with a controller
+
+### ❗ `Change` Removed "Equip" button in Armory Selection UI. Clicking a weapon now auto-equips it
 ________
 
 ## 🐛 Bugfixes
