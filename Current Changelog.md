@@ -13,12 +13,18 @@ ________
 ### 💄 `Cosmetic` Purchasable Calling Cards
 - 22 new calling cards in the shop.
 
+### 🔼 `Improvement` Improved Main Menu UI
+- New modern style
+
+### 🔼 `Improvement` Improved Shop UI
+- New modern style
+
 ### 🔼 `Improvement` Improved Map Voting UI
 - New modern style
 
 ### 🔼 `Improvement` Armory is now accessible while deployed
 
-### ❗ `Change` Change
+### ❗ `Change` Removed "Equip" button in Armory Selection UI. Clicking a weapon now auto-equips it.
 ________
 
 ## 🐛 Bugfixes
