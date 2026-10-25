@@ -36,6 +36,10 @@ ________
 - On PC press Tab to "Go Back".
 
 ### ❗ `Change` Removed "Equip" button in Armory Selection UI. Clicking a weapon now auto-equips it
+
+### ❗ `Change` Nerfed flash radius of Flashbang by 20%
+
+### ❗ `Change` Nerfed flash radius of Concussion Grenade by 20%
 ________
 
 ## 🐛 Bugfixes
