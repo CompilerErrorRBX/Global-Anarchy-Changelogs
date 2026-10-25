@@ -8,7 +8,8 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Feature
+### ✅ `Feature` Smoke Grenade
+- Tactical grenade type
 
 ### 💄 `Cosmetic` Purchasable Calling Cards
 - 22 new calling cards in the shop.
