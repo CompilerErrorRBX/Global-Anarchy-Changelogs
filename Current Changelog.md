@@ -14,6 +14,9 @@ ________
 ### 💄 `Cosmetic` Purchasable Calling Cards
 - 22 new calling cards in the shop.
 
+### 🔼 `Improvement` Added new "Operator Switch" button
+- Allows you to preview your classes Globalist or Anarchist operator
+
 ### 🔼 `Improvement` Improved Main Menu UI
 - New modern style
 
