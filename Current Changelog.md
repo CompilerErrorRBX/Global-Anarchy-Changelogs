@@ -9,25 +9,29 @@ ________
 ## 📢 Features and Improvements
 
 ### ✅ `Feature` Smoke Grenade
-- Tactical grenade type
+- Tactical grenade type.
 
 ### 💄 `Cosmetic` Purchasable Calling Cards
 - 22 new calling cards in the shop.
 
 ### 🔼 `Improvement` Added new "Operator Switch" button
-- Allows you to preview your classes Globalist or Anarchist operator
+- Allows you to preview your classes Globalist or Anarchist operator.
 
-### 🔼 `Improvement` Improved Main Menu UI
+### 🔼 `Improvement` New Main Menu UI
+- New modern style.
+
+### 🔼 `Improvement` New Armory UI
+- New modern style.
+
+### 🔼 `Improvement` New Shop UI
 - New modern style
 
-### 🔼 `Improvement` Improved Armory UI
-- New modern style
+### 🔼 `Improvement` New Profile UI
+- New modern style.
+- Now displays all your medals.
 
-### 🔼 `Improvement` Improved Shop UI
-- New modern style
-
-### 🔼 `Improvement` Improved Map Voting UI
-- New modern style
+### 🔼 `Improvement` New Map Voting UI
+- New modern style.
 
 ### 🔼 `Improvement` Armory is now accessible while deployed
 
