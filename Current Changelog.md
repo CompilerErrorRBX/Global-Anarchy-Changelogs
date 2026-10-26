@@ -56,3 +56,4 @@ ________
 - Fixed a bug where you couldn't see other players gun camos.
 - Fixed a bug where you could get soft-locked in a predator missile.
 - Fixed a bug where picking up a gun can change its foremode.
+- Fixed a bug where you would get stuck on low-health and not regenerate.
