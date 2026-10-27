@@ -12,7 +12,7 @@ ________
 - Tactical grenade type.
 
 ### 💄 `Cosmetic` Purchasable Calling Cards
-- 22 new calling cards in the shop.
+- 22 new calling cards in the shop, purchasable with gold.
 
 ### 🔼 `Improvement` Added new "Operator Switch" button
 - Allows you to preview your classes Globalist or Anarchist operator.
