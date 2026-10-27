@@ -37,6 +37,9 @@ ________
 
 ### 🔼 `Improvement` Play Menu is now easier to use with a controller
 
+### 🔼 `Improvement` ADS Sensitivity now smoothly lerps while you aim
+- Previously it was binary, no smoothing.
+
 ### ❗ `Change` Changed Armory Select UI Controls
 - On PC a single click now equips the item.
 - On PC a double click now clears the items notifications.
