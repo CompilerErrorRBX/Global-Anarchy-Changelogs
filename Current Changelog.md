@@ -33,6 +33,10 @@ ________
 ### 🔼 `Improvement` New Map Voting UI
 - New modern style.
 
+### 🔼 `Improvement` New character animations
+- Pistols do a 1-handed sprint animation.
+- You can see now other players throw grenades.
+
 ### 🔼 `Improvement` Armory is now accessible while deployed
 
 ### 🔼 `Improvement` Play Menu is now easier to use with a controller
