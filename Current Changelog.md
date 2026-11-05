@@ -19,7 +19,15 @@ ________
 
 ### 🔼 `Improvement` Dropped weapons now clean up between map loads
 
-### ❗ `Change` Change
+### ❗ `Change` Buffed PKM damage from 30 -> 34
+
+### ❗ `Change` Buffed M1014 damage from 15 -> 17
+
+### ❗ `Change` Buffed AA12 damage from 12 -> 14
+
+### ❗ `Change` Reduced AA12 MaxDistance damage from 350-> 325
+
+### ❗ `Change` AA12 now uses Auto firemode
 ________
 
 ## 🐛 Bugfixes
