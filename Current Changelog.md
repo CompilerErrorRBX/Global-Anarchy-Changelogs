@@ -15,6 +15,8 @@ ________
 - Every gun has 5 new challenge camos
 - Complete all challenges to unlock Diamond camo!
 
+### 🔼 `Improvement` Added free-cam support in spectator mode
+
 ### 🔼 `Improvement` Grenades now clean up between map loads
 
 ### 🔼 `Improvement` Dropped weapons now clean up between map loads
