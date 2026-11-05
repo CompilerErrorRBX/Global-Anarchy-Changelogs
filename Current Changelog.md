@@ -23,11 +23,17 @@ ________
 
 ### ❗ `Change` Buffed PKM damage from 30 -> 34
 
+### ❗ `Change` Nerfed Honey Badger damage from 34 -> 33
+
+### ❗ `Change` Nerfed Honey Badger MaxDistance from 1750 -> 1250
+
+### ❗ `Change` Nerfed Uzi damage from 29 -> 28
+
 ### ❗ `Change` Buffed M1014 damage from 15 -> 17
 
 ### ❗ `Change` Buffed AA12 damage from 12 -> 14
 
-### ❗ `Change` Reduced AA12 MaxDistance damage from 350-> 325
+### ❗ `Change` Reduced AA12 MaxDistance from 350-> 325
 
 ### ❗ `Change` AA12 now uses Auto firemode
 ________
