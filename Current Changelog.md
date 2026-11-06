@@ -24,6 +24,10 @@ ________
 
 ### 🔼 `Improvement` Dropped weapons now clean up between map loads
 
+________
+
+## ⚖️ Changes
+
 ### ❗ `Change` Buffed PKM damage from 30 -> 34
 
 ### ❗ `Change` Nerfed Honey Badger damage from 34 -> 33
