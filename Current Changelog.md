@@ -13,7 +13,10 @@ ________
 
 ### 💄 `Cosmetic` Challenge Camos
 - Every gun has 5 new challenge camos
-- Complete all challenges to unlock Diamond camo!
+
+### 💄 `Cosmetic` Diamond
+- Get all guns of the same class Gold to unlock Diamond.
+- i.e. Get all SMGs gold, and you unlock the Diamond camo for all SMGs.
 
 ### 🔼 `Improvement` Added free-cam support in spectator mode
 
