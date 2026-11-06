@@ -8,7 +8,7 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` 1v1 and 2v2 matchmaking (beta)
+### ✅ `Feature` 1v1 and 2v2 competitive (beta)
 - Through the weekend, try out the new 1v1 and 2v2 matchmaking gamemode!
 
 ### 💄 `Cosmetic` Challenge Camos
