@@ -12,7 +12,7 @@ ________
 - Through the weekend, try out the new 1v1 and 2v2 matchmaking gamemode!
 
 ### 💄 `Cosmetic` Challenge Camos
-- Every gun has 5 new challenge camos
+- Every gun has 4 new challenge camos
 
 ### 💄 `Cosmetic` Diamond
 - Get all guns of the same class Gold to unlock Diamond.
