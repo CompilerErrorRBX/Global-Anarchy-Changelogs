@@ -26,4 +26,6 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug where the map intro animation would interfere with the class loadout editor UI
+- Fixed a bug where the map intro animation would interfere with the class loadout editor UI.
+- Fixed a bug where when you pressed Jump while spectating a player, it would visually make them jump.
+- Fixed a bug where when you pressed the grenade key while spectating a player, it would visually make them throw a grenade.
