@@ -12,6 +12,10 @@ ________
 
 ### 🔼 `Improvement` When spectating you can now see your spectatees health
 
+### 🔼 `Improvement` RPG Milspec challenge now requires 25 Flyswatter medals
+
+### 🔼 `Improvement` Shotgun Pulse challenge now requires 100 pointblank kills
+
 ________
 
 ## ⚖️ Changes
