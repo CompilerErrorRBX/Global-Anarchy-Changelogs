@@ -8,7 +8,7 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Feature
+### ✅ `Feature` Gamemode: Hardpoint
 
 ### 🔼 `Improvement` When spectating you can now see your spectatees health
 
