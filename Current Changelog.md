@@ -10,6 +10,10 @@ ________
 
 ### ✅ `Feature` Gamemode: Hardpoint
 
+### ✅ `Feature` Death animations
+- Characters now play a death animation before their body ragdolls
+- New Death Animation options in the General settings: Ragdoll, Animation (death animation only, no ragdoll) and None (body is removed immediately)
+
 ### 🔼 `Improvement` When spectating you can now see your spectatees health
 
 ### 🔼 `Improvement` RPG Milspec challenge now requires 25 Flyswatter medals
@@ -18,10 +22,6 @@ ________
 
 ### 🔼 `Improvement` You can now cook frag grenades
 - If you die while cooking a grenade, it drops on the ground live
-
-### ✅ `Feature` Death animations
-- Characters now play a death animation before their body ragdolls
-- New Death Animation options in the General settings: Ragdoll, Animation (death animation only, no ragdoll) and None (body is removed immediately)
 
 ________
 
