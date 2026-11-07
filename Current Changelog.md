@@ -17,6 +17,7 @@ ________
 ### 🔼 `Improvement` Shotgun Pulse challenge now requires 100 pointblank kills
 
 ### 🔼 `Improvement` You can now cook frag grenades
+- If you die while cooking a grenade, it drops on the ground live
 
 ________
 
