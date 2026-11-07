@@ -10,13 +10,15 @@ ________
 
 ### ✅ `Feature` Feature
 
-### 🔼 `Improvement` Improvement
+### 🔼 `Improvement` When spectating you can now see your spectatees health
 
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` Improvements to competitive modes
+- Improved overtime display
+- Improved match abandon notifications
 ________
 
 ## 🐛 Bugfixes
