@@ -19,6 +19,9 @@ ________
 ### 🔼 `Improvement` You can now cook frag grenades
 - If you die while cooking a grenade, it drops on the ground live
 
+### ✅ `Feature` Death animations
+- Set Death Animation to Animation in the General settings to see characters play a death animation before their body falls
+
 ________
 
 ## ⚖️ Changes
