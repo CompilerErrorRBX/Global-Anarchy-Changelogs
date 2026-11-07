@@ -20,7 +20,8 @@ ________
 - If you die while cooking a grenade, it drops on the ground live
 
 ### ✅ `Feature` Death animations
-- Set Death Animation to Animation in the General settings to see characters play a death animation before their body falls
+- Characters now play a death animation before their body ragdolls
+- New Death Animation options in the General settings: Ragdoll, Animation (death animation only, no ragdoll) and None (body is removed immediately)
 
 ________
 
