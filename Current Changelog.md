@@ -22,4 +22,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug that bugged the bugs
+- Fixed a bug where the map intro animation would interfere with the class loadout editor UI
