@@ -13,9 +13,7 @@ ________
 
 ### ✅ `Feature` Death animations
 - Characters now play a death animation before their body ragdolls
-- New Death Animation options in the General settings: Ragdoll, Animation (death animation only, no ragdoll) and None (body is removed immediately)
-- Characters killed in the air go straight to ragdoll
-- With Animation, characters killed in the air fall to the ground instead of floating
+- New Death Animation options in the General settings: `Animation` Plays just the death animation with no ragdoll effect (Cheaper!)
 
 ### 🔼 `Improvement` When spectating you can now see your spectatees health
 
