@@ -23,7 +23,11 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` Nerfed AA12
+- Reduced hipfire accuracy
+- Slightly increased dropoff
+
+### ❗ `Change` Pressing sprint to cancel a slide now applies an immediate velocity nerf
 ________
 
 ## 🐛 Bugfixes
