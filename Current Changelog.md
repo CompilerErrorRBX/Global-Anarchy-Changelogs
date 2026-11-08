@@ -9,7 +9,7 @@ ________
 ## 📢 Features and Improvements
 
 ### ✅ `Feature` Gamemode: Hardpoint
-- Hold the active zone to score points for your team. The zone moves every 60 seconds.
+- Hold the active zone to score points for your team. The first zone appears 5 seconds after the match starts, then it moves every 60 seconds.
 - The announcer calls it out when a new Hardpoint comes online.
 
 ### ✅ `Feature` Death animations
