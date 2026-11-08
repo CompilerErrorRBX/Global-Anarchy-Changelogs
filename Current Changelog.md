@@ -15,6 +15,10 @@ ________
 - Characters now play a death animation before their body ragdolls.
 - New Death Animation options in the General settings: `Animation` Plays just the death animation with no ragdoll effect (Cheaper!).
 
+### ✅ `Feature` Take control of bots
+- While spectating a bot on your team, press E (X on controller) to take control of it.
+- You keep the bot's spot, health, weapons and ammo, and the bot leaves the fight.
+
 ### 🔼 `Improvement` When spectating you can now see your spectatees health
 
 ### 🔼 `Improvement` RPG Milspec challenge now requires 25 Flyswatter medals
