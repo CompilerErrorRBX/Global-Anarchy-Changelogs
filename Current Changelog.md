@@ -38,3 +38,5 @@ ________
 - Fixed a bug where when you pressed Jump while spectating a player, it would visually make them jump.
 - Fixed a bug where when you pressed the grenade key while spectating a player, it would visually make them throw a grenade.
 - Fixed a bug where capturing a Headquarters would randomly stop while you were standing inside the zone.
+- Fixed a bug where swapping between Anarchist and Globalist operator on the menu did not work.
+- Fixed a bug where the skin previewer in the shop did not work.
