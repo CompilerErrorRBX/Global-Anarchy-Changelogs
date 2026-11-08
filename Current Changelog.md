@@ -9,11 +9,11 @@ ________
 ## 📢 Features and Improvements
 
 ### ✅ `Feature` Gamemode: Hardpoint
-- Hold the active zone to score points for your team. The zone moves every 60 seconds
+- Hold the active zone to score points for your team. The zone moves every 60 seconds.
 
 ### ✅ `Feature` Death animations
-- Characters now play a death animation before their body ragdolls
-- New Death Animation options in the General settings: `Animation` Plays just the death animation with no ragdoll effect (Cheaper!)
+- Characters now play a death animation before their body ragdolls.
+- New Death Animation options in the General settings: `Animation` Plays just the death animation with no ragdoll effect (Cheaper!).
 
 ### 🔼 `Improvement` When spectating you can now see your spectatees health
 
@@ -22,17 +22,17 @@ ________
 ### 🔼 `Improvement` Shotgun Pulse challenge now requires 100 pointblank kills
 
 ### 🔼 `Improvement` You can now cook frag grenades
-- If you die while cooking a grenade, it drops on the ground live
-- Your crosshair pulses once a second while cooking so you can count down the fuse
-- On mobile, hold the grenade button to cook and let go to throw
+- If you die while cooking a grenade, it drops on the ground live.
+- Your crosshair pulses once a second while cooking so you can count down the fuse.
+- Mobile can cook grenades too.
 
 ________
 
 ## ⚖️ Changes
 
 ### ❗ `Change` Improvements to competitive modes
-- Improved overtime display
-- Improved match abandon notifications
+- Improved overtime display.
+- Improved match abandon notifications.
 ________
 
 ## 🐛 Bugfixes
