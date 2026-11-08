@@ -41,3 +41,4 @@ ________
 - Fixed a bug where swapping between Anarchist and Globalist operator on the menu did not work.
 - Fixed a bug where the skin previewer in the shop did not work.
 - Fixed a bug where a competitive match stopped by a server shutdown counted as a loss and an abandon. The match is now cancelled and nobody wins or loses.
+- Fixed a bug where the message telling you that you abandoned a competitive match often never showed. It now shows on the title screen the next time you play, even days later.
