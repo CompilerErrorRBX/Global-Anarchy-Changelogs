@@ -10,6 +10,7 @@ ________
 
 ### ✅ `Feature` Gamemode: Hardpoint
 - Hold the active zone to score points for your team. The zone moves every 60 seconds.
+- The announcer calls it out when a new Hardpoint comes online.
 
 ### ✅ `Feature` Death animations
 - Characters now play a death animation before their body ragdolls.
@@ -40,6 +41,7 @@ ________
 ### ❗ `Change` Improvements to competitive modes
 - Improved overtime display.
 - Improved match abandon notifications.
+- The announcer now tells you when you win or lose a round.
 ________
 
 ## 🐛 Bugfixes
