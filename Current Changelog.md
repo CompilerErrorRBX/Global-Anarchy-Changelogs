@@ -9,6 +9,8 @@ ________
 ## 📢 Features and Improvements
 
 ### ✅ `Feature` Gamemode: Hardpoint
+- Hold the active zone to score points for your team. The zone moves every 60 seconds
+- Playable in private servers
 
 ### ✅ `Feature` Death animations
 - Characters now play a death animation before their body ragdolls
@@ -38,3 +40,4 @@ ________
 - Fixed a bug where the map intro animation would interfere with the class loadout editor UI.
 - Fixed a bug where when you pressed Jump while spectating a player, it would visually make them jump.
 - Fixed a bug where when you pressed the grenade key while spectating a player, it would visually make them throw a grenade.
+- Fixed a bug where capturing a Headquarters would randomly stop while you were standing inside the zone.
