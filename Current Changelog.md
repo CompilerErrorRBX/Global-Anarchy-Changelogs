@@ -16,8 +16,11 @@ ________
 - New Death Animation options in the General settings: `Animation` Plays just the death animation with no ragdoll effect (Cheaper!).
 
 ### ✅ `Feature` Take control of bots
-- While spectating a bot on your team, press E (X on controller) to take control of it.
-- You keep the bot's spot, health, weapons and ammo, and the bot leaves the fight.
+- While spectating a bot on your team in Headquarters or Ranked, press E (X on controller) to take control of it.
+- You become the bot: its name, look, class, weapons, ammo, health and scorestreaks.
+- Your kills, deaths, score and medals count for the bot on the killfeed and scoreboard.
+- Your own XP and challenge progress still count.
+- Leaving or switching teams hands the bot back where you stood.
 
 ### 🔼 `Improvement` When spectating you can now see your spectatees health
 
