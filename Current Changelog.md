@@ -40,3 +40,4 @@ ________
 - Fixed a bug where capturing a Headquarters would randomly stop while you were standing inside the zone.
 - Fixed a bug where swapping between Anarchist and Globalist operator on the menu did not work.
 - Fixed a bug where the skin previewer in the shop did not work.
+- Fixed a bug where a competitive match stopped by a server shutdown counted as a loss and an abandon. The match is now cancelled and nobody wins or loses.
