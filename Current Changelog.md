@@ -23,6 +23,8 @@ ________
 
 ### 🔼 `Improvement` You can now cook frag grenades
 - If you die while cooking a grenade, it drops on the ground live
+- Your crosshair pulses once a second while cooking so you can count down the fuse
+- On mobile, hold the grenade button to cook and let go to throw
 
 ________
 
