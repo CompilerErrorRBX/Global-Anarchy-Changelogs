@@ -27,7 +27,7 @@ ________
 - Reduced hipfire accuracy
 - Slightly increased dropoff
 
-### ❗ `Change` Pressing sprint to cancel a slide now applies an immediate velocity nerf
+### ❗ `Change` Pressing sprint or crouch to cancel a slide now applies an immediate velocity nerf
 ________
 
 ## 🐛 Bugfixes
