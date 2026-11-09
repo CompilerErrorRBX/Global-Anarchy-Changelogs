@@ -15,6 +15,12 @@ ________
 - Your own XP and challenge progress still count.
 - Leaving or switching teams hands the bot back where you stood.
 
+### ✅ `Feature` Final Kill Cam
+- When a match ends, everyone watches a replay of the last kill from the killer's view, with slow motion on the kill.
+- Grenade and rocket kills follow the grenade or rocket to its target.
+- Predator Missile kills are shown from the missile itself.
+- Attack Helicopter kills are shown from a camera behind the helicopter.
+
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
 
 ### 🔼 `Improvement` Add announcer sounds to 1v1s and 2v2s
