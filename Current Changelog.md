@@ -13,7 +13,6 @@ ________
 - You become the bot: its name, look, class, weapons, ammo, health and scorestreaks.
 - Your kills, deaths, score and medals count for the bot on the killfeed and scoreboard.
 - Your own XP and challenge progress still count.
-- Leaving or switching teams hands the bot back where you stood.
 
 ### ✅ `Feature` Final Kill Cam
 - When a match ends, everyone watches a replay of the last kill from the killer's view, with slow motion on the kill.
