@@ -18,7 +18,7 @@ ________
 ### ✅ `Feature` Final Kill Cam
 - When a match ends, everyone watches a replay of the last kill from the killer's view, with slow motion on the kill.
 - Grenade and rocket kills follow the grenade or rocket to its target.
-- Predator Missile kills are shown from the missile itself.
+- Predator Missile kills are shown from the missile itself, in thermal vision.
 - Attack Helicopter kills are shown from a camera behind the helicopter.
 
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
