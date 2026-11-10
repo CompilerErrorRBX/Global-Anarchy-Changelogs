@@ -17,6 +17,7 @@ ________
 
 ### ✅ `Feature` Final Kill Cam
 - When a match ends, everyone watches a replay of the last kill from the killer's view, with slow motion on the kill.
+- In Ranked, every round also ends with a replay of the round winning kill.
 - Grenade, rocket and throwing knife kills follow the grenade, rocket or knife to its target, including a knife that ricochets.
 - Predator Missile kills are shown from the missile itself, in thermal vision.
 - Attack Helicopter kills are shown from a camera behind the helicopter.
