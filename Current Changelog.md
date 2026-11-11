@@ -29,6 +29,7 @@ ________
 - The top of the screen shows every player on both teams so you can see who is still alive. Attackers can also see who has the bomb. Ranked 1v1 and 2v2 show it too.
 - The bomb shows in your grenade bar while you carry it.
 - The bomb beeps faster as it gets close to going off.
+- Planting and defusing make a sound while you work on the bomb.
 
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
 
