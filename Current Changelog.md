@@ -34,6 +34,10 @@ ________
 - Reduced hipfire accuracy
 - Slightly increased dropoff
 
+### ❗ `Change` Rebalanced MP7
+- Damage reduced from 30 to 28
+- Max range reduced from 700 to 650
+
 ### ❗ `Change` Pressing sprint or crouch to cancel a slide now applies an immediate velocity nerf
 ________
 
