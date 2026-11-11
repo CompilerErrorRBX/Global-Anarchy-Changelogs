@@ -22,6 +22,11 @@ ________
 - Attackers pick up the bomb and plant it at site A or B. Defenders stop them or defuse it.
 - One life per round, sides swap every round, first to 6 rounds wins.
 
+### ✅ `Feature` Team pings
+- Press Left Alt (D-pad Down on controller) to ping the spot you are aiming at.
+- Your team sees a marker there with its distance, and on the minimap, for a few seconds.
+- You can have one ping at a time. Left Alt no longer does free look.
+
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
 
 ### 🔼 `Improvement` Add announcer sounds to 1v1s and 2v2s
