@@ -18,14 +18,17 @@ ________
 - When a match ends, everyone watches a replay of the last kill from the killer's view, with slow motion on the kill.
 - In Ranked, every round also ends with a replay of the round winning kill.
 
-### ✅ `Feature` Search and Destroy in Ranked 5v5
+### ✅ `Feature` Search and Destroy
 - Attackers pick up the bomb and plant it at site A or B. Defenders stop them or defuse it.
 - One life per round, sides swap every round, first to 6 rounds wins.
 - Plays on Glitch, Harbor, Mill, Reactor, Suburbs and Suburbs Halloween.
 - Solo players and small squads can now team up to fill a 5v5 queue.
 - The announcer calls out when the bomb is planted or defused.
 - A planted bomb beeps while it counts down.
-- Search and Destroy can be picked in private servers.
+- Plays in Ranked 5v5, in the normal mode rotation and map vote, and in private servers.
+- The top of the screen shows every player on both teams so you can see who is still alive. Attackers can also see who has the bomb. Ranked 1v1 and 2v2 show it too.
+- The bomb shows in your grenade bar while you carry it.
+- The bomb beeps faster as it gets close to going off.
 
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
 
