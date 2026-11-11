@@ -34,6 +34,8 @@ ________
 - While someone defuses the bomb they hold it in their hands, so it leaves the ground until they stop.
 - Planting or defusing the bomb gives 500 XP.
 - Kills give 100 XP and assists give 50 XP.
+- Attackers see PLANT markers over bomb sites A and B.
+- The marker over a teammate carrying the bomb now follows them smoothly and sits above their head.
 
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
 
