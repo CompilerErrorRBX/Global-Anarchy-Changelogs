@@ -30,6 +30,7 @@ ________
 - The bomb shows in your grenade bar while you carry it.
 - The bomb beeps faster as it gets close to going off.
 - Planting and defusing make a sound while you work on the bomb.
+- You pick up the bomb by walking right over it.
 
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
 
