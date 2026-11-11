@@ -33,6 +33,7 @@ ________
 - You pick up the bomb by walking right over it.
 - While someone defuses the bomb they hold it in their hands, so it leaves the ground until they stop.
 - Planting or defusing the bomb gives 500 XP.
+- Kills give 100 XP and assists give 50 XP.
 
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
 
