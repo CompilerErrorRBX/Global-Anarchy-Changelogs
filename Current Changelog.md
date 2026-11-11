@@ -44,3 +44,4 @@ ________
 ## 🐛 Bugfixes
 - Fixed a bug where releasing the hold crouch key (Ctrl) during a slide ended the slide early and left you stuck crouched. The slide now continues until it ends or you cancel it, and you stand back up afterwards unless you are still holding the key
 - Fixed a bug where spectating someone using a knife, grenade, claymore, throwing knife or scorestreak radio did not show their swing, throw or call-in animation in first person
+- Fixed a bug where bots could get stuck in the spawn box and lag the server. A stuck bot is now sent back into the match
