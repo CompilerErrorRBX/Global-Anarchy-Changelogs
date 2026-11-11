@@ -23,6 +23,9 @@ ________
 - One life per round, sides swap every round, first to 6 rounds wins.
 - Plays on Glitch, Harbor, Mill, Reactor, Suburbs and Suburbs Halloween.
 - Solo players and small squads can now team up to fill a 5v5 queue.
+- The announcer calls out when the bomb is planted or defused.
+- A planted bomb beeps while it counts down.
+- Search and Destroy can be picked in private servers.
 
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
 
