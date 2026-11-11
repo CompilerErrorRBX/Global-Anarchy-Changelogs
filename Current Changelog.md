@@ -18,6 +18,12 @@ ________
 - When a match ends, everyone watches a replay of the last kill from the killer's view, with slow motion on the kill.
 - In Ranked, every round also ends with a replay of the round winning kill.
 
+### ✅ `Feature` Search and Destroy in Ranked 5v5
+- Attackers pick up the bomb and plant it at site A or B. Defenders stop them or defuse it.
+- One life per round, sides swap every round, first to 6 rounds wins.
+- Plays on Glitch, Harbor, Mill, Reactor, Suburbs and Suburbs Halloween.
+- Solo players and small squads can now team up to fill a 5v5 queue.
+
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
 
 ### 🔼 `Improvement` Add announcer sounds to 1v1s and 2v2s
