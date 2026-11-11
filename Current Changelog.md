@@ -17,7 +17,6 @@ ________
 ### ✅ `Feature` Final Kill Cam
 - When a match ends, everyone watches a replay of the last kill from the killer's view, with slow motion on the kill.
 - In Ranked, every round also ends with a replay of the round winning kill.
-- If the killer dies during the replay, the camera pulls back to show their body falling.
 
 ### ✅ `Feature` Search and Destroy
 - Attackers pick up the bomb and plant it at site A or B. Defenders stop them or defuse it.
