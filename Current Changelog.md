@@ -31,6 +31,8 @@ ________
 - The bomb beeps faster as it gets close to going off.
 - Planting and defusing make a sound while you work on the bomb.
 - You pick up the bomb by walking right over it.
+- While someone defuses the bomb they hold it in their hands, so it leaves the ground until they stop.
+- Planting or defusing the bomb gives 500 XP.
 
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
 
