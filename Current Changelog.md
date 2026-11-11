@@ -26,6 +26,10 @@ ________
 
 ### 🔼 `Improvement` Add announcer sounds to 1v1s and 2v2s
 
+### 🔼 `Improvement` New team health display in 1v1s and 2v2s
+- Every player's headshot now shows at the top of the screen, greyed out with an X once they are dead.
+- Each team has one health bar under its headshots, replacing the health bars on the sides of the screen.
+
 ________
 
 ## ⚖️ Changes
