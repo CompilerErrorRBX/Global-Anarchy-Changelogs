@@ -18,7 +18,7 @@ ________
 - When a match ends, everyone watches a replay of the last kill from the killer's view, with slow motion on the kill.
 - In Ranked, every round also ends with a replay of the round winning kill.
 
-### ✅ `Feature` Search and Destroy
+### ✅ `Feature` Gamemode: Search and Destroy
 - Attackers pick up the bomb and plant it at site A or B. Defenders stop them or defuse it.
 - One life per round, sides swap every round, first to 6 rounds wins.
 
