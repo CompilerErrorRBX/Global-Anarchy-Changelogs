@@ -30,6 +30,10 @@ ________
 - Every player's headshot now shows at the top of the screen, greyed out with an X once they are dead.
 - Each team has one health bar under its headshots, replacing the health bars on the sides of the screen.
 
+### 🔼 `Improvement` Map models and sounds now load during the loading screen
+- Maps and sounds are ready when you join, so there is less pop in and fewer sounds missing the first time they play.
+- The loading screen may take a little longer. You can still skip it.
+
 ________
 
 ## ⚖️ Changes
