@@ -50,6 +50,9 @@ ________
 - Damage reduced from 30 to 28
 - Max range reduced from 700 to 650
 
+### ❗ `Change` Buffed PKM
+- Recoil reduced by 16.7%
+
 ### ❗ `Change` Pressing sprint or crouch to cancel a slide now applies an immediate velocity nerf
 ________
 
