@@ -80,3 +80,4 @@ ________
 - Fixed a bug where you could start throwing a grenade during the countdown before a round, while you are frozen in place.
 - Fixed a bug where Halloween bundles kept showing in the shop and on the map vote screen after the Halloween event ended.
 - Fixed a bug where you could not hear other players reloading, drawing or inspecting their weapons, or hear bots reloading.
+- Fixed a bug where everyone who joined a private server together was put on the same team. Teams are now split evenly.
