@@ -22,4 +22,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug that bugged the bugs
+- Fixed a bug where the class select screen closed when the kill cam played between rounds in Ranked and Search and Destroy.
