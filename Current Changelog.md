@@ -26,6 +26,10 @@ ________
 - Press Left Alt (D-pad Down on controller) to ping the spot you are aiming at.
 - Your team sees a marker there with its distance, and on the minimap, for a few seconds.
 
+### ✅ `Feature` 1v1s and 2v2s in private servers
+- Private servers have a new Duels section in the game mode list with 1v1 and 2v2.
+- Duels play on Shipment, first to 6 rounds wins.
+
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
 
 ### 🔼 `Improvement` Add announcer sounds to 1v1s and 2v2s
