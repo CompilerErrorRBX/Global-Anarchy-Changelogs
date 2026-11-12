@@ -60,3 +60,4 @@ ________
 - Fixed a bug where releasing the hold crouch key (Ctrl) during a slide ended the slide early and left you stuck crouched. The slide now continues until it ends or you cancel it, and you stand back up afterwards unless you are still holding the key
 - Fixed a bug where spectating someone using a knife, grenade, claymore, throwing knife or scorestreak radio did not show their swing, throw or call-in animation in first person
 - Fixed a bug where teammates and teammate bots could still block and push each other. You now pass through your team and only collide with enemies
+- Fixed a bug where you could start throwing a grenade during the countdown before a round, while you are frozen in place
