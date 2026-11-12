@@ -68,3 +68,4 @@ ________
 - Fixed a bug where spectating someone using a knife, grenade, claymore, throwing knife or scorestreak radio did not show their swing, throw or call-in animation in first person
 - Fixed a bug where teammates and teammate bots could still block and push each other. You now pass through your team and only collide with enemies
 - Fixed a bug where you could start throwing a grenade during the countdown before a round, while you are frozen in place
+- Fixed a bug where Halloween bundles kept showing in the shop and on the map vote screen after the Halloween event ended, one of them with the wrong picture
