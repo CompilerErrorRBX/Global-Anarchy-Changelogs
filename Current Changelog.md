@@ -16,7 +16,9 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` The After Action Report plays the rewards sound when it shows your unlocks
+### ❗ `Change` New sounds on the intermission pages
+- The After Action Report plays the rewards sound when it shows your unlocks.
+- Your XP on the Unlocks & XP page now counts up with a fast roulette style ticking that slows down as it settles.
 ________
 
 ## 🐛 Bugfixes
