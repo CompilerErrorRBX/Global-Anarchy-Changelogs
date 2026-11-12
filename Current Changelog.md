@@ -10,7 +10,8 @@ ________
 
 ### ✅ `Feature` Feature
 
-### 🔼 `Improvement` Improvement
+### 🔼 `Improvement` Skip the loading screen on controller
+- Press B to skip the loading screen once the Skip button shows up.
 
 ________
 
