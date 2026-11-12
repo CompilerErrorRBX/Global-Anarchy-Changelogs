@@ -30,6 +30,9 @@ ________
 - Private servers have a new Duels section in the game mode list with 1v1 and 2v2.
 - Duels play on Shipment, first to 6 rounds wins.
 
+### 🔼 `Improvement` Private servers can turn off health regen
+- New Health Regen option in the private server rules.
+
 ### 🔼 `Improvement` Add announcer sounds to Hardpoint
 
 ### 🔼 `Improvement` Add announcer sounds to 1v1s and 2v2s
