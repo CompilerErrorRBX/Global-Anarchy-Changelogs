@@ -16,7 +16,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` The After Action Report plays the rewards sound when it shows your unlocks
 ________
 
 ## 🐛 Bugfixes
