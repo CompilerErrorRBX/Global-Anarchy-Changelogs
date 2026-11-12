@@ -24,3 +24,4 @@ ________
 
 ## 🐛 Bugfixes
 - Fixed a bug where the class select screen closed when the kill cam played between rounds in Ranked and Search and Destroy.
+- Fixed a bug where the "Your class will change next time you spawn" message could get stuck on screen.
