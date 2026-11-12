@@ -31,11 +31,9 @@ ________
 - Duels play on Shipment, first to 6 rounds wins.
 
 ### ✅ `Feature` Unlocks & XP page at intermission
-- Intermission now has two pages: Map Vote and Unlocks & XP. Switch with Q and E (LB and RB on controller).
+- Intermission now has three pages: Map Vote and Unlocks & XP, and After Action Report.
 - See the XP and gold you earned, your medals, your level progress and your stats from the match.
 - See what you unlock next and the goals you are closest to finishing.
-- Press Z or X (R3 on controller) to switch between your level and your best weapon of the match.
-- The match stats popup no longer opens at intermission. Its stats are on the new page.
 
 ### 🔼 `Improvement` Private servers can turn off health regen
 - New Health Regen option in the private server rules.
