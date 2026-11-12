@@ -30,6 +30,13 @@ ________
 - Private servers have a new Duels section in the game mode list with 1v1 and 2v2.
 - Duels play on Shipment, first to 6 rounds wins.
 
+### ✅ `Feature` Unlocks & XP page at intermission
+- Intermission now has two pages: Map Vote and Unlocks & XP. Switch with Q and E (LB and RB on controller).
+- See the XP and gold you earned, your medals, your level progress and your stats from the match.
+- See what you unlock next and the goals you are closest to finishing.
+- Press Z or X (R3 on controller) to switch between your level and your best weapon of the match.
+- The match stats popup no longer opens at intermission. Its stats are on the new page.
+
 ### 🔼 `Improvement` Private servers can turn off health regen
 - New Health Regen option in the private server rules.
 
@@ -61,6 +68,11 @@ ________
 - Recoil reduced by 16.7%
 
 ### ❗ `Change` Pressing sprint or crouch to cancel a slide now applies an immediate velocity nerf
+
+### ❗ `Change` Ranked matches no longer send you back when they end
+- When a Ranked match ends you stay on the results page.
+- Press Play Again to vote for a rematch. If every player agrees, the same players play a new match.
+- Or press Menu to go to the title screen and pick something else to play.
 ________
 
 ## 🐛 Bugfixes
