@@ -79,4 +79,4 @@ ________
 - Fixed a bug where teammates and teammate bots could still block and push each other. You now pass through your team and only collide with enemies
 - Fixed a bug where you could start throwing a grenade during the countdown before a round, while you are frozen in place
 - Fixed a bug where Halloween bundles kept showing in the shop and on the map vote screen after the Halloween event ended, one of them with the wrong picture
-- Fixed a bug where you could not hear other players reloading, drawing or inspecting their weapons
+- Fixed a bug where you could not hear other players reloading, drawing or inspecting their weapons, or hear bots reloading
