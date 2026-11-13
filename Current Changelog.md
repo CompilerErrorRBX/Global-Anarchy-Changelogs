@@ -13,6 +13,9 @@ ________
 ### 🔼 `Improvement` Skip the loading screen on controller
 - Press B to skip the loading screen once the Skip button shows up.
 
+### 🔼 `Improvement` Kill cam shows flashes and stuns
+- If the killer was flashed or stunned, the kill cam now shows the white flash and screen sway they saw, at the same strength and timing.
+
 ________
 
 ## ⚖️ Changes
@@ -25,3 +28,4 @@ ________
 ## 🐛 Bugfixes
 - Fixed a bug where the class select screen closed when the kill cam played between rounds in Ranked and Search and Destroy.
 - Fixed a bug where the "Your class will change next time you spawn" message could get stuck on screen.
+- Fixed a bug where claymore kills did not show a kill cam.
