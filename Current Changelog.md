@@ -15,6 +15,9 @@ ________
 - Headshots keep their own death animations.
 - Explosions have their own death animations.
 
+### ✅ `Feature` Soldier Shadows setting
+- New Graphics setting that lets soldiers cast shadows. Off by default.
+
 ### 🔼 `Improvement` Skip the loading screen on controller
 - Press B to skip the loading screen once the Skip button shows up.
 
