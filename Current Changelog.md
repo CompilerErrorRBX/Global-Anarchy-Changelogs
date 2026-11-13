@@ -14,7 +14,6 @@ ________
 - Players now fall away from where the killing shot came from: front, back, left or right.
 - Headshots keep their own death animations.
 - Explosions have their own death animations.
-- The kill cam shows the same death animation as the live kill.
 
 ### 🔼 `Improvement` Skip the loading screen on controller
 - Press B to skip the loading screen once the Skip button shows up.
