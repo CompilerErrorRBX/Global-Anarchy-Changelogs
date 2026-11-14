@@ -16,7 +16,7 @@ ________
 - Explosions have their own death animations.
 
 ### ✅ `Feature` Soldier Shadows setting
-- New Graphics setting that lets soldiers cast shadows. Off by default.
+- New Graphics setting that lets soldiers cast shadows. On by default.
 
 ### ✅ `Feature` Private Server Time Limit and Score Limit
 - Private Servers can now set their own Time Limit and Score Limit.
