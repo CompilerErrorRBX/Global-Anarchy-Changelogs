@@ -41,6 +41,9 @@ ________
 - Bots now wait as long as players do before firing a weapon they just took out.
 
 ### ❗ `Change` PKM recoil reduced by 20%
+
+### ❗ `Change` Shorter Search and Destroy pregame
+- Outside Ranked, the pregame now ends as soon as everyone who has deployed has picked a class. Players still on the menu no longer hold the match back.
 ________
 
 ## 🐛 Bugfixes
