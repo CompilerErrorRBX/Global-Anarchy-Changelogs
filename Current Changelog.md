@@ -24,16 +24,6 @@ ________
 - Available in Team Deathmatch, Free For All, Domination, Headquarters, Hardpoint, Kill Confirmed and One in the Chamber. Gun Game and Infection have Time Limit only.
 - Matches with custom limits pay match rewards for the time actually played.
 
-### 🔼 `Improvement` Skip the loading screen on controller
-- Press B to skip the loading screen once the Skip button shows up.
-
-### 🔼 `Improvement` Kill cam shows flashes and stuns
-- If the killer was flashed or stunned, the kill cam now shows the white flash and screen sway they saw.
-
-### ✅ `Feature` AFK players are removed from matches
-- Players who stop playing for 90 seconds in a casual match are sent back to the title screen, and a bot takes their place.
-- In Competitive, AFK players are disconnected from the match and can reconnect from the Play menu.
-
 ### ✅ `Feature` Key bindings
 - Keyboard and mouse players can now rebind their keys in Settings, under Controls.
 - Controller players can rebind their buttons there too.
@@ -44,6 +34,16 @@ ________
 - Buttons snap into line with each other and with the HUD while you drag them.
 - The move stick, minimap, score, kill feed, weapons and perks stay where they are and show in red.
 - Your layout is saved to your account.
+
+### 🔼 `Improvement` Skip the loading screen on controller
+- Press B to skip the loading screen once the Skip button shows up.
+
+### 🔼 `Improvement` Kill cam shows flashes and stuns
+- If the killer was flashed or stunned, the kill cam now shows the white flash and screen sway they saw.
+
+### 🔼 `Improvement` AFK players are removed from matches
+- Players who stop playing for 90 seconds in a casual match are sent back to the title screen, and a bot takes their place.
+- In Competitive, AFK players are disconnected from the match and can reconnect from the Play menu.
 
 ### 💄 `Cosmetic` New Settings menu
 - The Settings menu has a new look that matches the Armory, Shop and Profile.
