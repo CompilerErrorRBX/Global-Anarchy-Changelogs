@@ -62,7 +62,7 @@ ________
 ### ❗ `Change` PKM recoil reduced by 20%
 
 ### ❗ `Change` Shorter Search and Destroy pregame
-- Outside Ranked, the pregame now ends as soon as everyone who has deployed has picked a class. Players still on the menu no longer hold the match back.
+- Outside Ranked, Search and Destroy now has the same short pregame as every other mode, and no longer waits for everyone to pick a class.
 ________
 
 ## 🐛 Bugfixes
