@@ -47,3 +47,4 @@ ________
 - Fixed a bug where claymore kills did not show a kill cam.
 - Fixed a bug where the camera snapped when you started or stopped sprinting with a pistol or fists, most noticeably when aiming down sights right after a sprint.
 - Fixed a bug where your own gunshots could sound like they came from the wrong side in first person, most noticeable on headsets with directional audio.
+- Fixed a bug where players could spend the pregame stuck in the spawn box instead of on the map.
