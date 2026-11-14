@@ -46,3 +46,4 @@ ________
 - Fixed a bug where the "Your class will change next time you spawn" message could get stuck on screen.
 - Fixed a bug where claymore kills did not show a kill cam.
 - Fixed a bug where the camera snapped when you started or stopped sprinting with a pistol or fists, most noticeably when aiming down sights right after a sprint.
+- Fixed a bug where your own gunshots could sound like they came from the wrong side in first person, most noticeable on headsets with directional audio.
