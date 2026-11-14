@@ -45,6 +45,10 @@ ________
 - Players who stop playing for 90 seconds in a casual match are sent back to the title screen, and a bot takes their place.
 - In Competitive, AFK players are disconnected from the match and can reconnect from the Play menu.
 
+### 🔼 `Improvement` Smoother Smoke Grenades
+- Smoke Grenade clouds are much cheaper to draw, so looking at or into smoke no longer drops your frame rate as much.
+- Smoke still blocks vision exactly as before.
+
 ### 💄 `Cosmetic` New Settings menu
 - The Settings menu has a new look that matches the Armory, Shop and Profile.
 - Settings are grouped into sections, sliders show their value, and every setting can be reset to its default.
