@@ -39,6 +39,8 @@ ________
 ### ❗ `Change` Bots switch weapons like players
 - Bots now put their gun away before taking out another one.
 - Bots now wait as long as players do before firing a weapon they just took out.
+
+### ❗ `Change` PKM recoil reduced by 20%
 ________
 
 ## 🐛 Bugfixes
