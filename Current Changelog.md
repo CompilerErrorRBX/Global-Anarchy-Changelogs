@@ -34,6 +34,20 @@ ________
 - Players who stop playing for 90 seconds in a casual match are sent back to the title screen, and a bot takes their place.
 - In Competitive, AFK players are disconnected from the match and can reconnect from the Play menu.
 
+### ✅ `Feature` Key bindings
+- Keyboard and mouse players can now rebind their keys in Settings, under Controls.
+- Controller players can rebind their buttons there too.
+- Bindings are saved to your account, and any binding can be reset to its default.
+
+### ✅ `Feature` Custom mobile HUD layout
+- Mobile players can now move and resize their on-screen buttons and HUD from Settings, under Controls.
+- Controls snap into line with each other while you drag them.
+- Your layout is saved to your account.
+
+### 💄 `Cosmetic` New Settings menu
+- The Settings menu has a new look that matches the Armory, Shop and Profile.
+- Settings are grouped into sections, sliders show their value, and every setting can be reset to its default.
+
 ________
 
 ## ⚖️ Changes
