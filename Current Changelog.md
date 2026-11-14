@@ -30,6 +30,10 @@ ________
 ### 🔼 `Improvement` Kill cam shows flashes and stuns
 - If the killer was flashed or stunned, the kill cam now shows the white flash and screen sway they saw.
 
+### ✅ `Feature` AFK players are removed from matches
+- Players who stop playing for 90 seconds in a casual match are sent back to the title screen, and a bot takes their place.
+- In Competitive, AFK players are disconnected from the match and can reconnect from the Play menu.
+
 ________
 
 ## ⚖️ Changes
