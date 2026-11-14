@@ -18,6 +18,12 @@ ________
 ### ✅ `Feature` Soldier Shadows setting
 - New Graphics setting that lets soldiers cast shadows. Off by default.
 
+### ✅ `Feature` Private Server Time Limit and Score Limit
+- Private Servers can now set their own Time Limit and Score Limit.
+- Set either to Unlimited, or set both for a match that never ends.
+- Available in Team Deathmatch, Free For All, Domination, Headquarters, Hardpoint, Kill Confirmed and One in the Chamber. Gun Game and Infection have Time Limit only.
+- Matches with custom limits pay match rewards for the time actually played.
+
 ### 🔼 `Improvement` Skip the loading screen on controller
 - Press B to skip the loading screen once the Skip button shows up.
 
