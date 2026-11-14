@@ -35,3 +35,4 @@ ________
 - Fixed a bug where the class select screen closed when the kill cam played between rounds in Ranked and Search and Destroy.
 - Fixed a bug where the "Your class will change next time you spawn" message could get stuck on screen.
 - Fixed a bug where claymore kills did not show a kill cam.
+- Fixed a bug where the camera snapped when you started or stopped sprinting with a pistol or fists, most noticeably when aiming down sights right after a sprint.
