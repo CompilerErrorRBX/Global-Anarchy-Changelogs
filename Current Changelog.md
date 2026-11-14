@@ -35,6 +35,10 @@ ________
 ## ⚖️ Changes
 
 ### ❗ `Change` Change
+
+### ❗ `Change` Bots switch weapons like players
+- Bots now put their gun away before taking out another one.
+- Bots now wait as long as players do before firing a weapon they just took out.
 ________
 
 ## 🐛 Bugfixes
