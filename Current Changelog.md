@@ -40,8 +40,9 @@ ________
 - Bindings are saved to your account, and any binding can be reset to its default.
 
 ### ✅ `Feature` Custom mobile HUD layout
-- Mobile players can now move and resize their on-screen buttons and HUD from Settings, under Controls.
-- Controls snap into line with each other while you drag them.
+- Mobile players can now move and resize their on-screen buttons from Settings, under Controls.
+- Buttons snap into line with each other and with the HUD while you drag them.
+- The move stick, minimap, score, kill feed, weapons and perks stay where they are and show in red.
 - Your layout is saved to your account.
 
 ### 💄 `Cosmetic` New Settings menu
@@ -71,3 +72,5 @@ ________
 - Fixed a bug where the camera snapped when you started or stopped sprinting with a pistol or fists, most noticeably when aiming down sights right after a sprint.
 - Fixed a bug where your own gunshots could sound like they came from the wrong side in first person, most noticeable on headsets with directional audio.
 - Fixed a bug where players could spend the pregame stuck in the spawn box instead of on the map.
+- Fixed a bug where the mobile plant and defuse button covered the tactical button and showed a grenade instead of the C4.
+- Fixed a bug where the vote prompt showed the wrong controller button for voting No.
