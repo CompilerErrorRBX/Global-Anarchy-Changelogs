@@ -78,3 +78,4 @@ ________
 - Fixed a bug where players could spend the pregame stuck in the spawn box instead of on the map.
 - Fixed a bug where the mobile plant and defuse button covered the tactical button and showed a grenade instead of the C4.
 - Fixed a bug where the vote prompt showed the wrong controller button for voting No.
+- Fixed a bug where your soldier's legs and body tilted slightly when turning in place.
