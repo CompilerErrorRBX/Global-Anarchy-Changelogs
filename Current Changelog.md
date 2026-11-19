@@ -40,6 +40,11 @@ ________
 - The move stick, minimap, score, kill feed, weapons and perks stay where they are and show in red.
 - Your layout is saved to your account.
 
+### ✅ `Feature` Graphics quality choice for new players
+- The first time you join, the loading screen asks you to pick Low Quality or High Quality.
+- Low Quality turns off shadows and extra effects so the game runs smoother on phones and older devices.
+- You can change any of it later in Settings, under Graphics.
+
 ### 🔼 `Improvement` Skip the loading screen on controller
 - Press B to skip the loading screen once the Skip button shows up.
 
