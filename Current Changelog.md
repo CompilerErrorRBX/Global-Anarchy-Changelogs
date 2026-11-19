@@ -79,3 +79,4 @@ ________
 - Fixed a bug where the mobile plant and defuse button covered the tactical button and showed a grenade instead of the C4.
 - Fixed a bug where the vote prompt showed the wrong controller button for voting No.
 - Fixed a bug where your soldier's legs and body tilted slightly when turning in place.
+- Fixed a bug that lowered the frame rate on phones and tablets during every match.
