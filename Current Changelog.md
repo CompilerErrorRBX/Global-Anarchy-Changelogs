@@ -6,6 +6,13 @@
 Patch notes.
 ________
 
+## 🗺️ Map Changes
+
+### All Maps
+- Adjusted the lighting on every map.
+
+________
+
 ## 📢 Features and Improvements
 
 ### ✅ `Feature` Feature
