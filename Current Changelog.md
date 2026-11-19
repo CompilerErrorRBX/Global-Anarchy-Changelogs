@@ -1,4 +1,4 @@
-# 📑 Changelog 11/13/2026 - 11/xx/2026
+# 📑 Changelog 11/20/2026 - 11/xx/2026
 
 ## 🟢 Status `Unreleased`
 
@@ -6,87 +6,18 @@
 Patch notes.
 ________
 
-## 🗺️ Map Changes
-
-### All Maps
-- Adjusted the lighting on every map.
-
-________
-
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Directional death animations
-- Players now fall away from where the killing shot came from: front, back, left or right.
-- Headshots keep their own death animations.
-- Explosions have their own death animations.
+### ✅ `Feature` Feature
 
-### ✅ `Feature` Soldier Shadows setting
-- New Graphics setting that lets soldiers cast shadows. On by default.
-
-### ✅ `Feature` Private Server Time Limit and Score Limit
-- Private Servers can now set their own Time Limit and Score Limit.
-- Set either to Unlimited, or set both for a match that never ends.
-- Available in Team Deathmatch, Free For All, Domination, Headquarters, Hardpoint, Kill Confirmed and One in the Chamber. Gun Game and Infection have Time Limit only.
-- Matches with custom limits pay match rewards for the time actually played.
-
-### ✅ `Feature` Key bindings
-- Keyboard and mouse players can now rebind their keys in Settings, under Controls.
-- Controller players can rebind their buttons there too.
-- Bindings are saved to your account, and any binding can be reset to its default.
-
-### ✅ `Feature` Custom mobile HUD layout
-- Mobile players can now move and resize their on-screen buttons from Settings, under Controls.
-- Buttons snap into line with each other and with the HUD while you drag them.
-- The move stick, minimap, score, kill feed, weapons and perks stay where they are and show in red.
-- Your layout is saved to your account.
-
-### ✅ `Feature` Graphics quality choice for new players
-- The first time you join, the loading screen asks you to pick Low Quality or High Quality.
-- Low Quality turns off shadows and extra effects so the game runs smoother on phones and older devices.
-- You can change any of it later in Settings, under Graphics.
-
-### 🔼 `Improvement` Skip the loading screen on controller
-- Press B to skip the loading screen once the Skip button shows up.
-
-### 🔼 `Improvement` Kill cam shows flashes and stuns
-- If the killer was flashed or stunned, the kill cam now shows the white flash and screen sway they saw.
-
-### 🔼 `Improvement` AFK players are removed from matches
-- Players who stop playing for 90 seconds in a casual match are sent back to the title screen, and a bot takes their place.
-- In Competitive, AFK players are disconnected from the match and can reconnect from the Play menu.
-
-### 🔼 `Improvement` Smoother Smoke Grenades
-- Smoke Grenade clouds are much cheaper to draw, so looking at or into smoke no longer drops your frame rate as much.
-- Smoke still blocks vision exactly as before.
-
-### 💄 `Cosmetic` New Settings menu
-- The Settings menu has a new look that matches the Armory, Shop and Profile.
-- Settings are grouped into sections, sliders show their value, and every setting can be reset to its default.
+### 🔼 `Improvement` Improvement
 
 ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Bots switch weapons like players
-- Bots now put their gun away before taking out another one.
-- Bots now wait as long as players do before firing a weapon they just took out.
-
-### ❗ `Change` PKM recoil reduced by 20%
-
-### ❗ `Change` Shorter Search and Destroy pregame
-- Outside Ranked, Search and Destroy now has the same short pregame as every other mode, and no longer waits for everyone to pick a class.
+### ❗ `Change` Change
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug where the class select screen closed when the kill cam played between rounds in Ranked and Search and Destroy.
-- Fixed a bug where the "Your class will change next time you spawn" message could get stuck on screen.
-- Fixed a bug where claymore kills did not show a kill cam.
-- Fixed a bug where the camera snapped when you started or stopped sprinting with a pistol or fists, most noticeably when aiming down sights right after a sprint.
-- Fixed a bug where your own gunshots could sound like they came from the wrong side in first person, most noticeable on headsets with directional audio.
-- Fixed a bug where players could spend the pregame stuck in the spawn box instead of on the map.
-- Fixed a bug where the mobile plant and defuse button covered the tactical button and showed a grenade instead of the C4.
-- Fixed a bug where the vote prompt showed the wrong controller button for voting No.
-- Fixed a bug where your soldier's legs and body tilted slightly when turning in place.
-- Fixed a bug that lowered the frame rate on phones and tablets during every match.
-- Fixed a bug where the scoreboard button stayed on screen and covered the back button when you opened Settings during a match.
-- Fixed a bug where the dark background behind Settings during a match did not reach the edges of the screen on phones.
+- Fixed a bug that bugged the bugs
