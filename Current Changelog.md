@@ -88,3 +88,5 @@ ________
 - Fixed a bug where the vote prompt showed the wrong controller button for voting No.
 - Fixed a bug where your soldier's legs and body tilted slightly when turning in place.
 - Fixed a bug that lowered the frame rate on phones and tablets during every match.
+- Fixed a bug where the scoreboard button stayed on screen and covered the back button when you opened Settings during a match.
+- Fixed a bug where the dark background behind Settings during a match did not reach the edges of the screen on phones.
