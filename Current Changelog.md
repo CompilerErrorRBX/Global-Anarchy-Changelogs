@@ -15,8 +15,6 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Feature
-
 ### ✅ `Feature` Directional death animations
 - Players now fall away from where the killing shot came from: front, back, left or right.
 - Headshots keep their own death animations.
@@ -63,8 +61,6 @@ ________
 ________
 
 ## ⚖️ Changes
-
-### ❗ `Change` Change
 
 ### ❗ `Change` Bots switch weapons like players
 - Bots now put their gun away before taking out another one.
