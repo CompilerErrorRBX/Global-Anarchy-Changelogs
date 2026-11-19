@@ -61,7 +61,6 @@ ________
 
 ### 💄 `Cosmetic` New Settings menu
 - The Settings menu has a new look that matches the Armory, Shop and Profile.
-- Settings are grouped into sections, sliders show their value, and every setting can be reset to its default.
 
 ________
 
