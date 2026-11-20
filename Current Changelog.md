@@ -20,4 +20,4 @@ ________
 ________
 
 ## 🐛 Bugfixes
-- Fixed a bug that bugged the bugs
+- Fixed a bug where shots could pass through moving enemies without registering, most noticeably at low frame rates.
