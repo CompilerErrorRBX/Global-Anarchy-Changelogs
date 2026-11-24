@@ -8,7 +8,10 @@ ________
 
 ## 📢 Features and Improvements
 
-### ✅ `Feature` Feature
+### ✅ `Feature` Bling proficiency
+- New proficiency that lets you equip two attachments of different types on your primary, like a sight and a suppressor.
+- Unlocks at weapon level 25 on weapons that have more than one type of attachment.
+- Pick both attachments in the gunsmith. Tap an equipped attachment to take it off.
 
 ### 🔼 `Improvement` Improvement
 
