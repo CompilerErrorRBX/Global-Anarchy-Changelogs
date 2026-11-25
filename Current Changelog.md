@@ -19,7 +19,7 @@ ________
 
 ## ⚖️ Changes
 
-### ❗ `Change` Change
+### ❗ `Change` The free spectator camera now rises with E and lowers with Q
 ________
 
 ## 🐛 Bugfixes
